@@ -1,0 +1,77 @@
+{
+  "artifacts": {
+    "AR-EP001-DURATION60-20261010": {
+      "acceptance": {
+        "at": "2026-10-10T12:22:07.902375Z",
+        "decision": "accepted",
+        "note": "用户将第一集目标调整为60秒。",
+        "outputs": {
+          "创作者决策/EP001_60秒_20261010.jsonl": "9077ec8b6978cbfda30be8afa2613ab9b792e78489d89dfba086a69e04c93f47"
+        }
+      },
+      "inputs": {},
+      "outputs": [
+        "创作者决策/EP001_60秒_20261010.jsonl"
+      ],
+      "owner": "short-drama",
+      "review": null,
+      "updated_at": "2026-10-10T12:22:07.902375Z"
+    },
+    "AR-SEEDANCE20-20261010": {
+      "acceptance": {
+        "at": "2026-10-10T12:19:43.993245Z",
+        "decision": "accepted",
+        "note": "用户明确选择即梦Seedance 2.0；单集时长未确认。",
+        "outputs": {
+          "创作者决策/Seedance2.0_20261010.jsonl": "bc2843ebb7a674cd8bec2fadf68bbce011487532f4700ddaf330238cc635a74c"
+        }
+      },
+      "inputs": {},
+      "outputs": [
+        "创作者决策/Seedance2.0_20261010.jsonl"
+      ],
+      "owner": "short-drama",
+      "review": null,
+      "updated_at": "2026-10-10T12:19:43.993245Z"
+    },
+    "AR-VISUAL-20261010": {
+      "acceptance": {
+        "at": "2026-10-10T12:15:24.470329Z",
+        "decision": "accepted",
+        "note": "用户明确指定第三张附件为最终人物图，并要求极简风。",
+        "outputs": {
+          "创作者决策/视觉方向_20261010.jsonl": "60e1cc4befcda3f4760969fd2f32bfa052ba98565448178fd4c8992b3568d6bd"
+        }
+      },
+      "inputs": {},
+      "outputs": [
+        "创作者决策/视觉方向_20261010.jsonl"
+      ],
+      "owner": "short-drama",
+      "review": null,
+      "updated_at": "2026-10-10T12:15:24.470329Z"
+    }
+  },
+  "authority": {
+    "/creator_authority/production_profile/choices": {
+      "decision": "创作者决策/Seedance2.0_20261010.jsonl#CD-SEEDANCE20-20261010",
+      "set_at": "2026-10-10T12:19:44.095689Z",
+      "value_sha256": "e7676e004acfcfdd38f421ada4770f366cf5ea38247bca872d370747c00409c8"
+    },
+    "/creator_authority/visual_direction/choices": {
+      "decision": "创作者决策/视觉方向_20261010.jsonl#CD-VISUAL-20261010",
+      "set_at": "2026-10-10T12:15:24.602153Z",
+      "value_sha256": "09d481eea4d455e82ce9fe0da816aa81ab4c42b8f49221aefb12f3f99f86786a"
+    },
+    "/format/target_seconds_per_episode": {
+      "decision": "创作者决策/EP001_60秒_20261010.jsonl#CD-EP001-DURATION60-20261010",
+      "set_at": "2026-10-10T12:22:07.996373Z",
+      "value_sha256": "39fa9ec190eee7b6f4dff1100d6343e10918d044c75eac8f9e9a2596173f80c9"
+    }
+  },
+  "last_action": "authority_set",
+  "project_id": "SD-842693F21A2C",
+  "project_layout_mode": "canonical",
+  "schema_version": "2.0",
+  "updated_at": "2026-10-10T12:22:07.996373Z"
+}

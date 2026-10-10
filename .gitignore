@@ -1,0 +1,15 @@
+# 本地运行数据与凭据
+.cache/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+!.env.example
+/.short-drama/project.lock
+/.short-drama/dashboard.json
+
+# 系统文件
+Thumbs.db
+.DS_Store

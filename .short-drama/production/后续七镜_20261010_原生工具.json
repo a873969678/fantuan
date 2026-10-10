@@ -1,0 +1,166 @@
+{
+  "tool": "image_gen.imagegen",
+  "status": "completed",
+  "date": "2026-10-10",
+  "source": "剧集/EP001/分镜.md",
+  "scope": "新增002至008七张首帧，并根据用户本轮反馈修改004、005的饭团双手；未生成音视频",
+  "acceptance": "generated_candidates_pending_user_selection",
+  "runs": [
+    {
+      "id": "SHOT-EP001-002",
+      "prompt": "Use case: illustration-story. Generate ONE portrait 9:16 film first frame, not a storyboard grid. Reference image 1 controls ONLY the identities of the upper-left seaweed and upper-middle rice ball, never the three cats. Reference image 2 controls the corrected shorter seaweed scale and warm minimal hand-drawn style ONLY; discard its table and pose. Use rice-ball body height=1, seaweed body height about1.1, so they are close in height, not tall skinny seaweed. 极简二维手绘动画风，深色略不规则粗轮廓，克制的涂色笔触，奶油白与海苔绿主色，大量留白。柔和暖白平光，无强烈明暗，无写实材质。9:16竖幅，轻微俯视双人中景，家里的空白背景只保留地面接触线。饭团在左，紫菜在右，双手分别停在前方打开的行李边沿，视线朝下。饭团为奶油白圆角三角饭团身体，原图短小四肢。正面下方海苔绿贴片，黑眼睛与淡粉脸颊。紫菜为深海苔绿长方片状身体，起伏边缘，细线四肢。竖线眼睛与小折线嘴。前景右下主行李箱打开，浅米色圆角箱体，两道深色竖线，细拉杆和小轮。拉杆收起，打开的箱盖与箱体相连，内物简化为无标识色块；其他行李只保留画面下沿被裁切的边缘。人物脸部完整可见，没有字幕或对白气泡。角色连续性：紫菜沿用首镜v003缩矮后的体态，身体高度约为饭团身体高度的1.1倍，保持宽度，不能画成细高长条。饭团只有两只圆弧小手，侧面圆弧就是手而不是耳朵；小手移到身前或箱沿后，身体侧面不再保留额外圆环。",
+      "refs": [
+        "D:/git/fantuan/公共素材/视觉参考/主要人物_用户指定定稿.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-001_候选_v003.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-9b71b011-474d-46c0-abcb-72d6110488ac.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-002_候选_v001.png",
+      "status": "generated_candidate",
+      "inspection": "两位主角、打开主箱与两只饭团手可见；紫菜身高仍略高，保留候选供整组比较。",
+      "sha256": "b899fa7b4c03c31b19fa6b51ba99f6cd25f5d735cb0514ebb1f07c4cc7e633c9",
+      "bytes": 2043099,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-002"
+    },
+    {
+      "id": "SHOT-EP001-003",
+      "prompt": "Use case: illustration-story. ONE 9:16 portrait frame. Reference1 controls ONLY upper-left seaweed and upper-middle rice ball identity, no cats. Reference2 controls corrected short broad seaweed proportions and minimal art style, never the table scene. Both seated on SAME cushion level, seaweed top only slightly above rice ball top (maximum 8% higher); seaweed remains broad with short legs. 极简二维手绘动画风，深色略不规则粗轮廓，克制的涂色笔触，奶油白与海苔绿主色，大量留白。柔和暖白平光，无强烈明暗，无写实材质。9:16竖幅，从前方平视出租车内部的后排双人座，双人中近景。饭团坐在左座，目光微微偏向右侧，奶油白圆角三角饭团身体，原图短小四肢。正面下方海苔绿贴片，黑眼睛与淡粉脸颊。紫菜坐在右座，视线朝前，深海苔绿长方片状身体，起伏边缘，细线四肢。竖线眼睛与小折线嘴。各自汽车安全带从肩侧固定点斜跨身前到座椅内侧，带子在身体外表面，不穿过身体。双方双手均在身前低处，座椅承托身体；车窗外只有简单的浅色环境轮廓。画面不出现方向盘、司机、字幕或车标。角色连续性：紫菜沿用首镜v003缩矮后的体态，身体高度约为饭团身体高度的1.1倍，保持宽度，不能画成细高长条。饭团只有两只圆弧小手，侧面圆弧就是手而不是耳朵；小手移到身前或箱沿后，身体侧面不再保留额外圆环。",
+      "refs": [
+        "D:/git/fantuan/公共素材/视觉参考/主要人物_用户指定定稿.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-001_候选_v003.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-a98883bd-5082-46cd-8c86-bb8dfdfc1fff.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-003_候选_v001.png",
+      "status": "generated_candidate",
+      "inspection": "双人后排、各自斜跨安全带、饭团两手两脚；紫菜体高接近饭团。",
+      "sha256": "cadeeffdeac85cf27016360871ca509449c1cc8a85fe1179258dd2a2a8ace5da",
+      "bytes": 1823225,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-003"
+    },
+    {
+      "id": "SHOT-EP001-004",
+      "prompt": "Use case: illustration-story. Generate ONE portrait 9:16 film first frame. Reference1 ONLY identities of upper-left seaweed and upper-middle rice ball, no cats. Reference2 corrected shorter seaweed proportions and style ONLY, no table. Reference3 ONLY suitcase design (cream case, two vertical dark stripes, short round dark wheels): show the SAME case closed now, extended thin telescoping handle, no open lid or packing items. Both characters seated same height, seaweed top at most 8% above rice ball top. Seaweed's anatomical LEFT hand (screen right) clearly grips handle of case on screen right; other hand rests in front. 极简二维手绘动画风，深色略不规则粗轮廓，克制的涂色笔触，奶油白与海苔绿主色，大量留白。柔和暖白平光，无强烈明暗，无写实材质。9:16竖幅，平视车站候车区双人中景。饭团在简笔长椅左侧坐着，双手在身前，奶油白圆角三角饭团身体，原图短小四肢。正面下方海苔绿贴片，黑眼睛与淡粉脸颊。紫菜在右侧坐着，左手轻扶外侧行李拉杆，右手垂在身前；深海苔绿长方片状身体，起伏边缘，细线四肢。竖线眼睛与小折线嘴。行李直立在紫菜外侧，浅米色圆角箱体，两道深色竖线，细拉杆和小轮。拉杆伸出，轮子着地。右边留有走出位置，背景仅两个很小的圆头线条车站旅客。此刻两人尚未起身，没有站名、字幕或指示文案。角色连续性：紫菜沿用首镜v003缩矮后的体态，身体高度约为饭团身体高度的1.1倍，保持宽度，不能画成细高长条。饭团只有两只圆弧小手，侧面圆弧就是手而不是耳朵；小手移到身前或箱沿后，身体侧面不再保留额外圆环。",
+      "refs": [
+        "D:/git/fantuan/公共素材/视觉参考/主要人物_用户指定定稿.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-001_候选_v003.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-002_候选_v001.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-26cfa303-09da-4af7-8cfd-46ddbe0cbcc2.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-004_候选_v001.png",
+      "status": "generated_candidate",
+      "inspection": "长椅坐姿、两位简笔旅客及主箱可见。箱柄上沿有疑似多余手指笔画，需要局部修正。",
+      "sha256": "490d2e3348c99d9ff77fc0286a394ecbdc79d0a509566a506dbb967a0bf0bc92",
+      "bytes": 1654503,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-004"
+    },
+    {
+      "id": "SHOT-EP001-005",
+      "prompt": "Use case: illustration-story. One 9:16 first-frame illustration. Image1 controls ONLY two protagonist identities (upper-left seaweed, upper-middle rice ball). Image2 controls corrected SHORT seaweed proportions and style. Image3 controls the cream closed suitcase shape and dark stripes ONLY; omit bench, window, architecture. Seaweed body 1.1x rice ball body height, never slender/towering. Hands exactly two per protagonist, seaweed left hand holds the suitcase handle with ONE connected grip, no additional hand attached to handle. Keep this scene extremely empty and simple. 极简二维手绘动画风，深色略不规则粗轮廓，克制的涂色笔触，奶油白与海苔绿主色，大量留白。柔和暖白平光，无强烈明暗，无写实材质。9:16竖幅，检票区侧前方双人中景，队列从左下向右上延伸，右上只露简单闸机轮廓。饭团在左前、紫菜在右后，两者面部可见，脚都落地，尚未迈步。饭团为奶油白圆角三角饭团身体，原图短小四肢。正面下方海苔绿贴片，黑眼睛与淡粉脸颊。紫菜为深海苔绿长方片状身体，起伏边缘，细线四肢。竖线眼睛与小折线嘴。紫菜左手握行李拉杆，箱子在身侧后方，浅米色圆角箱体，两道深色竖线，细拉杆和小轮。前后各一个小比例、无细节的车站旅客。没有车站标识、票面特写或字幕。角色连续性：紫菜沿用首镜v003缩矮后的体态，身体高度约为饭团身体高度的1.1倍，保持宽度，不能画成细高长条。饭团只有两只圆弧小手，侧面圆弧就是手而不是耳朵；小手移到身前或箱沿后，身体侧面不再保留额外圆环。",
+      "refs": [
+        "D:/git/fantuan/公共素材/视觉参考/主要人物_用户指定定稿.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-001_候选_v003.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-004_候选_v001.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-63251392-73ce-4a24-a397-0c156e26955e.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-005_候选_v001.png",
+      "status": "generated_candidate",
+      "inspection": "队列及同款箱可见；箱柄多余手指笔画延续，需局部修正。",
+      "sha256": "71d1ce5cf4ccc53c1ba9819ec5e5cbe09c51cd5eedb0676924df42781eab05c9",
+      "bytes": 1679935,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-005"
+    },
+    {
+      "id": "SHOT-EP001-006",
+      "prompt": "Use case: illustration-story. ONE 9:16 film first frame. Image1 ONLY rice ball upper middle and seaweed upper left identity; exclude cats. Image2 controls shorter seaweed body and minimal hand-painted style; discard home table. Train carriage is only a few simple lines. Both characters sit side by side in SAME ROW of two distinct seats, rice ball nearer aisle screen left, seaweed window side screen right. SEAWEEED SHOULD NOT LOOK TALL: its actual body height only 1.05 times rice ball body; perspective makes farther seaweed slightly smaller. Fixed tray tables folded away, no food. 极简二维手绘动画风，深色略不规则粗轮廓，克制的涂色笔触，奶油白与海苔绿主色，大量留白。柔和暖白平光，无强烈明暗，无写实材质。9:16竖幅，从过道斜向高铁内部的相邻两座看去，双人中景，饭团在左下近处、紫菜在右上稍远处，两张椅子有清楚且不重叠的座面。两人身体已接触座垫，双手轻靠各自座椅边缘，面部朝前，尚未完全坐稳。饭团为奶油白圆角三角饭团身体，原图短小四肢。正面下方海苔绿贴片，黑眼睛与淡粉脸颊。紫菜为深海苔绿长方片状身体，起伏边缘，细线四肢。竖线眼睛与小折线嘴。后方一扇高铁长窗，窗外少量简笔树木；小桌保持收起，画面不出现汽车安全带、食物、行李或字幕。角色连续性：紫菜沿用首镜v003缩矮后的体态，身体高度约为饭团身体高度的1.1倍，保持宽度，不能画成细高长条。饭团只有两只圆弧小手，侧面圆弧就是手而不是耳朵；小手移到身前或箱沿后，身体侧面不再保留额外圆环。",
+      "refs": [
+        "D:/git/fantuan/公共素材/视觉参考/主要人物_用户指定定稿.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-001_候选_v003.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-9bd8b343-0f8e-4073-80d2-55bab928021c.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-006_候选_v001.png",
+      "status": "generated_candidate",
+      "inspection": "两座相邻、饭团近左紫菜远右、长窗；无安全带、行李与食物。",
+      "sha256": "68d2e9a3e0cbae5c6b71edd39e54db2c385fd32f3833e947d7e40d295c2c5fd8",
+      "bytes": 2368458,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-006"
+    },
+    {
+      "id": "SHOT-EP001-007",
+      "prompt": "Use case: precise-object-edit. Edit the supplied train frame into the lunch scene, output ONE same portrait9:16 frame. Preserve EXACTLY both character identities, their body heights, seats, rice ball near LEFT and seaweed farther RIGHT, camera side, blue-gray upholstery, white headrests, same long window and warm hand-drawn art style. Add TWO opened small tray tables in front of their respective seats, each ONE cream cup of noodles and ONE fork lying flat separately. Cups each say ONLY Chinese character 面, each has TWO thin steam lines. Two small rice-ball hands move to tray edge; remove the former side hand loops so it has exactly TWO HANDS and TWO FEET. Seaweed also exactly two thin hands. No other changes, no additional text. 极简二维手绘动画风，深色略不规则粗轮廓，克制的涂色笔触，奶油白与海苔绿主色，大量留白。柔和暖白平光，无强烈明暗，无写实材质。9:16竖幅，高铁内部从过道同侧稍高机位看相邻两座，饭团近左、紫菜远右，身后长窗位置不变。饭团为奶油白圆角三角饭团身体，原图短小四肢。正面下方海苔绿贴片，黑眼睛与淡粉脸颊。紫菜为深海苔绿长方片状身体，起伏边缘，细线四肢。竖线眼睛与小折线嘴。两人各自的双手静放在桌沿，面部尚未低下。两张打开的小桌各有一杯面和一把放平的叉子，杯面与叉子互不遮挡。杯面杯身仅写一个清楚的“面”字，杯口各有两条简单热气弯线。画面没有时间提示、对白字幕或额外文字。角色连续性：紫菜沿用首镜v003缩矮后的体态，身体高度约为饭团身体高度的1.1倍，保持宽度，不能画成细高长条。饭团只有两只圆弧小手，侧面圆弧就是手而不是耳朵；小手移到身前或箱沿后，身体侧面不再保留额外圆环。",
+      "refs": [
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-006_候选_v001.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-d4789d5d-0d87-4555-8d61-7d929ec92cdc.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-007_候选_v001.png",
+      "status": "generated_candidate",
+      "inspection": "两份杯面及叉子；窗位座位延续006；两手在桌沿，文字面正确。",
+      "sha256": "b8ba9611568b3e396697b28fe85ca90331a9840236f7db527027b291a80f4604",
+      "bytes": 2260897,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-007"
+    },
+    {
+      "id": "SHOT-EP001-004",
+      "kind": "user_hand_revision",
+      "prompt": "精确局部编辑这张候车插画，仅修正手部。饭团当前两只圆弧小手放在腹部海苔两侧，看起来像抱着海苔：完全移除这两只前方圆手，将饭团仅有的两只小手移到身体最外侧左右下缘，一左一右，轻轻搭在身体外侧的长椅座面上，手与腹部绿色贴片之间有明显奶油白身体间隔。手仍是小小的奶油白圆弧，不变成人类手指，不加耳朵；饭团底部两只短圆脚保留。绿色贴片完整贴在腹部，不是拿着的物品。另移除行李拉杆横把正上方悬空的三个黑色指头形笔画，保留紫菜从身体伸向画面右侧拉杆的一条手臂与侧边一只握持手，紫菜另一只手仍放在身前。除上述局部手部笔画，严格保持人物脸、身高、宽度、表情、身体纹理、箱子、座椅、背景、构图、9:16尺寸、暖白色调和全部其他元素不变。只出一张修正图。",
+      "refs": [
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-004_候选_v001.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-01733019-ca8d-4fe2-b1b9-d8f5a2f8a6f9.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-004_候选_v002.png",
+      "status": "generated_candidate",
+      "inspection": "饭团手分开移到身体两侧椅面；两脚保留；箱柄多余笔画已去除。",
+      "sha256": "974da7c3b526ffe3b83fc65c349812a6541283c40d4cb9d640dd6db27abb3ddb",
+      "bytes": 1613530,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-004"
+    },
+    {
+      "id": "SHOT-EP001-005",
+      "kind": "user_hand_revision",
+      "prompt": "精确局部编辑这张检票排队插画，只修正手部。饭团两只前方圆手目前像抱着腹部绿色海苔片：完全移除这两只圆手，把饭团仅有的两只小手移到身体最外侧左右下缘，一左一右自然垂着。小手是原角色的短小奶油白圆弧，手与腹部海苔贴片之间要有大块奶油白身体间隔，不能握着贴片。保持底部两只短圆脚原样不动；总共两手两脚，无耳朵，不加胳膊长线或人类手掌。另去除行李拉杆横把正上方三个悬空黑色指头笔画，保留紫菜伸向拉杆侧面的那条连接身体的手臂与一只握持手，另一只手仍在身前。严格保持人物位置、身高宽度、表情、轮廓、箱子、队列旅客、闸机、隔离带、暖白背景、手绘纹理、构图及9:16尺寸都不变。只出一张修正图。",
+      "refs": [
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-005_候选_v001.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-7bed7cf9-787e-41bc-bd8d-e23527b15d5e.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-005_候选_v002.png",
+      "status": "generated_candidate",
+      "inspection": "饭团双手在身体最外两侧，贴片完整；箱柄多余笔画去除。",
+      "sha256": "4816ea357ab78daf077d51c1a945e3dec4f541240168c15dce94ee32882e2876",
+      "bytes": 1643691,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-005"
+    },
+    {
+      "id": "SHOT-EP001-008",
+      "prompt": "Use case: illustration-story. ONE portrait9:16 first frame, not character sheet. Reference1 ONLY rice ball BACK view (right half); no face, no green patch. Reference2 ONLY seaweed BACK view (right half); no face. Reference3 ONLY corrected shorter seaweed height and style, not furniture; seaweed and rice ball standing almost equal height, seaweed body at most1.1x rice ball body. Reference4 ONLY closed cream suitcase with two dark stripes, no bench/station architecture. Both viewed from BEHIND: rice ball screen left, seaweed screen right. Seaweed anatomical RIGHT hand is screen RIGHT holding phone raised near shoulder; anatomical LEFT hand is screen LEFT touching suitcase handle between characters. Hands connect naturally. Rice ball TWO small loop hands resting low on far outer sides, no ears, two short feet. Extreme minimalism: warm-white void and faint floor contact; only protagonists, same suitcase, one phone, small simple horn loudspeaker upper-right. 极简二维手绘动画风，深色略不规则粗轮廓，克制的涂色笔触，奶油白与海苔绿主色，大量留白。柔和暖白平光，无强烈明暗，无写实材质。9:16竖幅，到站处后方略高机位的双人背影中景，饭团在左，紫菜在右。饭团为奶油白圆角三角饭团身体，原图短小四肢。紫菜为深海苔绿长方片状身体，起伏边缘，细线四肢。此刻只见两者背面，不见任何正面五官，不把饭团正面海苔贴片复制到背面。紫菜右手在身前拿浅色矩形手机，屏幕朝向自己，从肩侧能看到部分无字浅色屏幕和一个无字按钮形状；左手仍扶左侧的行李拉杆，尚未点屏幕。浅米色圆角箱体，两道深色竖线，细拉杆和小轮。箱子直立着地。饭团双手垂在两侧。右上是原稿形状的简笔车站广播设备，背景只保留地面接触线，不画具体站名或城市地标。没有字幕、时间提示、品牌或到来的汽车。角色连续性：紫菜沿用首镜v003缩矮后的体态，身体高度约为饭团身体高度的1.1倍，保持宽度，不能画成细高长条。饭团只有两只圆弧小手，侧面圆弧就是手而不是耳朵；小手移到身前或箱沿后，身体侧面不再保留额外圆环。",
+      "refs": [
+        "D:/git/fantuan/剧集/EP001/制作成果/角色/饭团_正背面_候选_v001.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/角色/紫菜_正背面_候选_v001.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-001_候选_v003.png",
+        "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-004_候选_v002.png"
+      ],
+      "native_path": "C:/Users/Administrator/.codex/generated_images/01a125b5-99e7-7ed3-a26e-17495141df87/exec-72d0db5a-12ec-4284-aabf-5d5f766997d7.png",
+      "output": "D:/git/fantuan/剧集/EP001/制作成果/首帧/SHOT-EP001-008_候选_v001.png",
+      "status": "generated_candidate",
+      "inspection": "两人背面无五官、饭团背面无海苔；紫菜右持手机左扶箱；广播设备在右上。",
+      "sha256": "ff8882ad9b5ec08ed4b76bdd3f9d800e3a4f8b1d7d7d025cb57229045ab9cb67",
+      "bytes": 1539504,
+      "width": 941,
+      "height": 1672,
+      "source_entry": "SHOT-EP001-008"
+    }
+  ]
+}
