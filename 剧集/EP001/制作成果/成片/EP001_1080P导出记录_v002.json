@@ -1,0 +1,37 @@
+{
+  "output": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\成片\\饭团与紫菜_EP001_暑假片1_1080P高清版_v002.mp4",
+  "source": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\成片\\饭团与紫菜_EP001_暑假片1_封面配乐完整版_v001.mp4",
+  "filter": "scale=1080:1882:flags=lanczos,setsar=1,unsharp=5:5:0.35:3:3:0,pad=1080:1920:0:19:color=0xfffdf5",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "sample_aspect_ratio": "1:1",
+        "r_frame_rate": "24/1",
+        "nb_frames": "1285"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "nb_frames": "2511"
+      }
+    ],
+    "format": {
+      "duration": "53.541667",
+      "size": "20857723"
+    }
+  },
+  "audio_stream_identical": true,
+  "audio_stream_sha256": "SHA256=1b425d991492acbe181a59e9cab8d6f1bdd1e2a31bb9329b5b2712e8b6ade691",
+  "decode_error": false,
+  "source_sha256": "c46efe93c8656dee55523490befd88823b6429d0e555a667488cfd14b08cc147",
+  "output_sha256": "90a23926223c3fcd4972347f82354e438b9b81edc7486ed3c64a31224b403ad2",
+  "elapsed_seconds": 44.10305452346802,
+  "quality": "Lanczos插值放大及轻锐化，不是AI重绘或原生1080P",
+  "status": "ready_for_user_review",
+  "visual_check": "封面、对白气泡、潮汕站牌、结尾抽帧已查看；完整构图和文字保留，轻锐化无明显粗重边缘。"
+}

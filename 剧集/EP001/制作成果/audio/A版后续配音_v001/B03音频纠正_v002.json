@@ -1,0 +1,13 @@
+{
+  "source": "剧集\\EP001\\制作成果\\audio\\A版后续配音_v001\\B03_紫菜_是啊.wav",
+  "source_sha256": "ad234e85ae8aaeeb5100a86910669068c48759a0c45a565c98ad2dd0a5417da4",
+  "output": "剧集\\EP001\\制作成果\\audio\\A版后续配音_v001\\紫菜_B03仅本段台词_上传_v002.wav",
+  "output_sha256": "4dd47f87d48a4a6dceebaa1fe129298fbe42087ec30065bf3aca6e05a3cdf6e6",
+  "spoken_text": "是啊。",
+  "duration_seconds": 2.2,
+  "source_duration_seconds": 1.8400416666666666,
+  "appended_silence_seconds": 0.3599583333333333,
+  "voice_samples_unchanged": true,
+  "processing": "保留原是啊录音全部采样，末尾仅补约0.36秒静默；不变速、不变调、不重复、不加其他段台词",
+  "reason": "用户指出第三段紫菜音频含其他段内容，纠正打包错误"
+}

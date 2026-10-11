@@ -1,0 +1,63 @@
+{
+  "images": [
+    {
+      "file": "图片1_检票排队_无字.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "e7e9f26692835a2bdba79ee3212b3a65cc55fa1fe36ba2331c06ec399e3492dc",
+      "visual_check": "已查看：去除圈号文字气泡，人物场景保留；图7杯身面字保留"
+    },
+    {
+      "file": "图片2_车窗_无字.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "4a2a4a74f065019153b71afaa6bca7201541ce5935ac178ba4d84089ccb3d3c8",
+      "visual_check": "已查看：去除圈号文字气泡，人物场景保留；图7杯身面字保留"
+    },
+    {
+      "file": "图片3_午饭_无字.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "cda597e21c5200cdfcb35769a0b40dba1b7fa34a0f35a1e3720033da05d682c3",
+      "visual_check": "已查看：去除圈号文字气泡，人物场景保留；图7杯身面字保留"
+    },
+    {
+      "file": "图片4_到站_无字.png",
+      "dimensions": [
+        941,
+        1671
+      ],
+      "sha256": "9b3d787eeeaa520b49804d41ce6b01cdd1acda386c666c0cc56976111efbde89",
+      "visual_check": "已查看：去除圈号文字气泡，人物场景保留；图7杯身面字保留"
+    }
+  ],
+  "audio": [
+    {
+      "file": "音频1_饭团_B03新台词.wav",
+      "duration": 2.35,
+      "sample_rate": 24000,
+      "sha256": "2fa0db1d87a94d00cd320b651ec4cedd4b01dcf465ba6b4377c975f2480f5c84",
+      "new_lines_listening_pending": true
+    },
+    {
+      "file": "音频2_紫菜_是啊.wav",
+      "duration": 2.2,
+      "sample_rate": 24000,
+      "sha256": "4dd47f87d48a4a6dceebaa1fe129298fbe42087ec30065bf3aca6e05a3cdf6e6",
+      "spoken_text": "是啊。",
+      "appended_silence_seconds": 0.3599583333333333,
+      "new_lines_listening_pending": true
+    }
+  ],
+  "no_captions": true,
+  "user_generates_in_jimeng": true,
+  "submitted": false,
+  "supersedes": "EP001_B03_15秒_上传包_v001",
+  "only_current_batch_dialogue": true
+}

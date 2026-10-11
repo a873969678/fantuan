@@ -1,0 +1,185 @@
+{
+  "output": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B03_场景文字_含潮汕广播_v001.mp4",
+  "sha256": "9617083139311edbbf664a11658d263043ff18dfa41b3ecffa44263769b225e1",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64001f",
+        "width": 496,
+        "height": 864,
+        "coded_width": 496,
+        "coded_height": 864,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 272896,
+        "duration": "22.208333",
+        "bit_rate": "700079",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "533",
+        "extradata_size": 45,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.1.102 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1066000,
+        "duration": "22.208333",
+        "bit_rate": "193309",
+        "nb_frames": "1043",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B03_场景文字_含潮汕广播_v001.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "22.208333",
+      "size": "2497384",
+      "bit_rate": "899620",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.102"
+      }
+    }
+  },
+  "captions": [
+    [
+      "0:00:00.00",
+      "0:00:04.42",
+      160,
+      150,
+      "检票中"
+    ],
+    [
+      "0:00:04.67",
+      "0:00:08.58",
+      160,
+      150,
+      "刚上车"
+    ],
+    [
+      "0:00:08.83",
+      "0:00:11.46",
+      160,
+      150,
+      "一小时后"
+    ],
+    [
+      "0:00:11.46",
+      "0:00:19.46",
+      250,
+      250,
+      "二小时后"
+    ]
+  ],
+  "broadcast_full_seconds": 7.7,
+  "broadcast_output_start": 11.708333333,
+  "broadcast_output_end": 19.408333333,
+  "decode_errors": false,
+  "status": "rendered_for_user_review",
+  "source": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B03.mp4",
+  "removed_transition_source_frames": [
+    281,
+    294
+  ],
+  "broadcast_decoded_correlation": 0.9989726479672666,
+  "output_sample_peak": 0.881500244140625,
+  "caption_frames_visually_checked": true,
+  "previous_finals_unchanged": {
+    "EP001_B01_场景文字_v003.mp4": true,
+    "EP001_B02_场景文字_A版_v003.mp4": true
+  }
+}

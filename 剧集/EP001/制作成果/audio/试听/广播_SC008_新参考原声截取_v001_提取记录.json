@@ -1,0 +1,19 @@
+{
+  "source_url": "https://v.douyin.com/o73KsZgSnYM",
+  "resolved_url": "https://www.douyin.com/video/7320807123930189090",
+  "source_file": "输入\\声音参考\\潮汕站广播_新参考\\潮汕站广播_新参考完整解码.wav",
+  "source_duration_seconds": 40.30984126984127,
+  "output_file": "广播_SC008_新参考原声截取_v001.wav",
+  "in_seconds": 0,
+  "out_seconds": 7.7,
+  "duration_seconds": 7.7,
+  "sample_rate": 44100,
+  "channels": 2,
+  "pcm_bits": 16,
+  "processing": "直接截取解码后的原声PCM；无TTS、音源分离、变速、变调、增益调整或额外音乐",
+  "selection": "辅助识别报站结尾约7.30秒，下一句约7.96秒开始，取7.70秒为出点；文字与听感需用户回听",
+  "exact_pcm_match": true,
+  "peak": 0.890838623046875,
+  "sha256": "adf30bb78aec377ff651a121c1af20160a99e5fde28087970b844e266ed7ec2e",
+  "status": "待用户试听；替代旧来源去配乐候选"
+}

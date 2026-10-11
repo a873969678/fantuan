@@ -1,0 +1,47 @@
+{
+  "status": "generated_pending_listening",
+  "reason": "用户否定上一版本地换声相似度",
+  "source": "剧集\\EP001\\剧本.md",
+  "source_entry": "EP001-SC003",
+  "text": "没事，我定了酒店，住那，过几天再去。",
+  "performance": "先用“没事”安抚，再从容交代安排；“酒店”“住那”“过几天”自然分意群，不机械逐字顿开",
+  "ref_video": "剧集\\EP001\\制作成果\\视频\\EP001_B01_即梦原片_v001.mp4",
+  "reference_cuts": [
+    [
+      0,
+      3.35
+    ],
+    [
+      7.32,
+      8.55
+    ],
+    [
+      11.98,
+      12.9
+    ]
+  ],
+  "reference_text": "我们去潮汕吧。我记得你外婆家在那儿。带点玩的。带了。",
+  "reference_duration": 5.8,
+  "model": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+  "local_only": true,
+  "outputs": [
+    {
+      "file": "紫菜_酒店句_校准A.wav",
+      "mode": "reference_speech_and_text",
+      "seed": 2026101131,
+      "duration": 4.24,
+      "sample_rate": 24000,
+      "sha256": "2a2134dfba1fd2bdfc88dce97468735c244fe0ba228eecc1fc1707008d269203"
+    },
+    {
+      "file": "紫菜_酒店句_校准B.wav",
+      "mode": "speaker_embedding_only",
+      "seed": 2026101132,
+      "duration": 4.24,
+      "sample_rate": 24000,
+      "sha256": "8be65b98e42fca0ff3b31b6aeab59f5714849fc082b80d94e97945c61aaa2855"
+    }
+  ],
+  "user_accepted": false,
+  "elapsed_seconds": 52.57823848724365
+}

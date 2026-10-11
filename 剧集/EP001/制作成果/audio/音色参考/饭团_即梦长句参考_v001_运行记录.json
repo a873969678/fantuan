@@ -1,0 +1,23 @@
+{
+  "source": "剧集/EP001/剧本.md",
+  "scene": "EP001-SC002",
+  "text": "好了。平板带了吗？我要看着。",
+  "performance": "先交代收拾好了，再认真问平板；问句略扬，末句直白说出自己的需求，不撒娇喊叫",
+  "reference": "公共素材\\声音\\饭团_小女孩_已确认_v001.wav",
+  "reference_text": "嗯，对，行。",
+  "reference_sha256": "07dbf84620ac6dc77d7334d199ee6df6c7a79b0ccb87339f7b4f9173b884c6f1",
+  "method": "Qwen3-TTS Base ICL voice clone using accepted character sample",
+  "model": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+  "seed": 2026101107,
+  "external_paid_api": false,
+  "reason": "用户报告即梦音频不少于2秒；修复饭团1.52秒上传参考",
+  "voice_identity": "继续参考已确认母版；新长句的音色相似度待用户试听",
+  "processing": "自然生成完整现有台词；不循环、不变速、不填充静音",
+  "status": "generated_pending_listening",
+  "duration_seconds": 2.72,
+  "sample_rate": 24000,
+  "peak": 0.5627462267875671,
+  "gain": 1.0,
+  "elapsed_seconds": 21.420011520385742,
+  "sha256": "06b2b9b01089d0cefceb0eeb92404354e52bb8c36221579703da5a1054471614"
+}

@@ -1,0 +1,50 @@
+{
+  "purpose": "B03 v002：纠正紫菜音频，仅本段台词",
+  "files": [
+    {
+      "name": "上传材料核对.json",
+      "bytes": 2052,
+      "sha256": "e7cde1b68493ef358641275fa0c8980913cda4bbad4e69cf1189f1e00645b5e2"
+    },
+    {
+      "name": "先读我.txt",
+      "bytes": 2203,
+      "sha256": "68af1b00e4113bcbcc7dd818a4a110aceb6770e71dd13a0b3f4dc5e2bfa61094"
+    },
+    {
+      "name": "图片1_检票排队_无字.png",
+      "bytes": 1635562,
+      "sha256": "e7e9f26692835a2bdba79ee3212b3a65cc55fa1fe36ba2331c06ec399e3492dc"
+    },
+    {
+      "name": "图片2_车窗_无字.png",
+      "bytes": 1617223,
+      "sha256": "4a2a4a74f065019153b71afaa6bca7201541ce5935ac178ba4d84089ccb3d3c8"
+    },
+    {
+      "name": "图片3_午饭_无字.png",
+      "bytes": 1628782,
+      "sha256": "cda597e21c5200cdfcb35769a0b40dba1b7fa34a0f35a1e3720033da05d682c3"
+    },
+    {
+      "name": "图片4_到站_无字.png",
+      "bytes": 1552726,
+      "sha256": "9b3d787eeeaa520b49804d41ce6b01cdd1acda386c666c0cc56976111efbde89"
+    },
+    {
+      "name": "复制到即梦.txt",
+      "bytes": 6738,
+      "sha256": "63eebc5502f8cba00cfe8862224d9951c556a2ca8961e0223e2b529d04b6b948"
+    },
+    {
+      "name": "音频1_饭团_B03新台词.wav",
+      "bytes": 112844,
+      "sha256": "2fa0db1d87a94d00cd320b651ec4cedd4b01dcf465ba6b4377c975f2480f5c84"
+    },
+    {
+      "name": "音频2_紫菜_是啊.wav",
+      "bytes": 105644,
+      "sha256": "4dd47f87d48a4a6dceebaa1fe129298fbe42087ec30065bf3aca6e05a3cdf6e6"
+    }
+  ]
+}

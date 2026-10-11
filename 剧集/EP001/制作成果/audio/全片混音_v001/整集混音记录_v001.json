@@ -1,0 +1,67 @@
+{
+  "output": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\成片\\饭团与紫菜_EP001_暑假片1_封面配乐完整版_v001.mp4",
+  "status": "ready_for_user_review",
+  "duration": 53.541666666666664,
+  "frames": 1285,
+  "offsets": [
+    1.75,
+    16.541666666666668,
+    31.333333333333332
+  ],
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 496,
+        "height": 864,
+        "r_frame_rate": "24/1",
+        "nb_frames": "1285"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "nb_frames": "2511"
+      }
+    ],
+    "format": {
+      "duration": "53.541667"
+    }
+  },
+  "music_source": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\配乐\\EP001_暑假出发_轻音乐_v001.wav",
+  "source_videos": [
+    "EP001_B01_漫画气泡_v004.mp4",
+    "EP001_B02_漫画气泡_A版_v004.mp4",
+    "EP001_B03_漫画气泡_含潮汕广播_v002.mp4"
+  ],
+  "additional_layer_gain": 1.0,
+  "peak": 0.8948920965194702,
+  "broadcast_window": [
+    43.041666666666664,
+    50.74166666666667
+  ],
+  "broadcast_pcm_unchanged": true,
+  "broadcast_new_layers_exactly_zero": true,
+  "source_voice_rate_pitch_gain_unchanged": true,
+  "cover_original": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\漫画\\漫画封面.png",
+  "cover_duration": 2,
+  "joins_crossfade_seconds": 0.25,
+  "environment": "原片无对白候车底声片段+本地合成拟音；非新增可辨路人对白",
+  "sha256": "c46efe93c8656dee55523490befd88823b6429d0e555a667488cfd14b08cc147",
+  "subjective_listening": "待用户回听，不以技术通过判定音乐审美或情感",
+  "measured_output_lufs": -14.94,
+  "measured_true_peak_dbtp": -0.95,
+  "measured_lra": 8.5,
+  "visual_samples_checked": [
+    "封面",
+    "家里",
+    "汽车",
+    "候车",
+    "检票",
+    "午饭",
+    "广播",
+    "结尾"
+  ],
+  "music_asr_no_recognized_words": true
+}

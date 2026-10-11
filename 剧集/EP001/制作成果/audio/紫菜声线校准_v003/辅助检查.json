@@ -1,0 +1,26 @@
+[
+  {
+    "file": "紫菜_B01三句原声参考.wav",
+    "asr": "我们去朝山吧我记得你外婆家在哪带点玩的带了",
+    "duration": 5.8,
+    "peak": 0.6040714383125305,
+    "rough_f0_median_hz": 335.8006086295905,
+    "pitch_not_age_or_similarity_verdict": true
+  },
+  {
+    "file": "紫菜_酒店句_校准A.wav",
+    "asr": "没事,我定了酒店煮纳,过几天再去",
+    "duration": 4.24,
+    "peak": 0.32015460729599,
+    "rough_f0_median_hz": 403.0284090497999,
+    "pitch_not_age_or_similarity_verdict": true
+  },
+  {
+    "file": "紫菜_酒店句_校准B.wav",
+    "asr": "没事我定了酒店住那过几天再去",
+    "duration": 4.24,
+    "peak": 0.4093357026576996,
+    "rough_f0_median_hz": 375.65961906002616,
+    "pitch_not_age_or_similarity_verdict": true
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "status": "generated_pending_listening",
+  "user_confirmation": "A版",
+  "scope": "采用紫菜A声线；补第二段末句和第三段角色台词",
+  "reference": {
+    "紫菜": {
+      "path": "剧集\\EP001\\制作成果\\audio\\紫菜声线校准_v003\\紫菜_酒店句_校准A.wav",
+      "text": "没事，我定了酒店，住那，过几天再去。",
+      "sha256": "2a2134dfba1fd2bdfc88dce97468735c244fe0ba228eecc1fc1707008d269203"
+    },
+    "饭团": {
+      "path": "剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\饭团_B01截取参考.wav",
+      "text": "好了。平板带了吗？我要看着。",
+      "sha256": "14047314f7782641bca829cc18db01e28cf559f91a740119c0af4136f9fb92e6"
+    }
+  },
+  "model": "D:/git/.sanguo-runtime/models/Qwen3-TTS-12Hz-0.6B-Base",
+  "lines": [
+    {
+      "name": "B02_紫菜_行",
+      "role": "紫菜",
+      "scene": "EP001-SC004",
+      "text": "行。",
+      "performance": "干脆答应，准备起身；语气平稳、不拖音",
+      "duration": 1.36,
+      "file": "B02_紫菜_行.wav",
+      "sha256": "8505a5aa8b434fada3b05ad8fbf3bf8a5c9d097ed63916649817d481e062843e"
+    },
+    {
+      "name": "B03_紫菜_是啊",
+      "role": "紫菜",
+      "scene": "EP001-SC005",
+      "text": "是啊。",
+      "performance": "顺着饭团的话轻声认同，短而自然",
+      "duration": 1.8400416666666666,
+      "file": "B03_紫菜_是啊.wav",
+      "sha256": "ad234e85ae8aaeeb5100a86910669068c48759a0c45a565c98ad2dd0a5417da4"
+    },
+    {
+      "name": "B03_饭团_还好",
+      "role": "饭团",
+      "scene": "EP001-SC005",
+      "text": "还好来得早。",
+      "performance": "看见长队后略松口气，“还好”稍带庆幸，不夸张叹气",
+      "duration": 1.28,
+      "file": "B03_饭团_还好.wav",
+      "sha256": "9d4f712d06f7e47be25032434a274a8a1d1048280064c6cc12e2b147c1e6b8b7"
+    },
+    {
+      "name": "B03_饭团_到啦",
+      "role": "饭团",
+      "scene": "EP001-SC008",
+      "text": "到啦！",
+      "performance": "听完广播后轻快回应，短句中带到达的高兴，不尖叫、不添加笑声",
+      "duration": 0.72,
+      "file": "B03_饭团_到啦.wav",
+      "sha256": "bd7c3cf9c616dd7b1823af254eb840e3568c38fea6c415a94caa4b19ac8ab1ee"
+    }
+  ],
+  "outputs": [
+    {
+      "role": "饭团",
+      "file": "饭团_B03上传音频_v001.wav",
+      "duration": 2.35,
+      "sha256": "2fa0db1d87a94d00cd320b651ec4cedd4b01dcf465ba6b4377c975f2480f5c84",
+      "note": "本段新台词；紫菜另附已选A版酒店句作为音色参考，不在B03播放酒店句"
+    },
+    {
+      "role": "紫菜",
+      "file": "紫菜_B03上传音频_v001.wav",
+      "duration": 6.430041666666667,
+      "sha256": "68e37a1ba4a3fe1f47bf3e9d821ac564ea1187f557c432b34d696c0be5095f88",
+      "note": "本段新台词；紫菜另附已选A版酒店句作为音色参考，不在B03播放酒店句"
+    }
+  ],
+  "local_only": true,
+  "derived_lines_accepted": false,
+  "elapsed_seconds": 36.4557900428772
+}

@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-11",
+  "user_instruction": "这两段做最终成果，删掉其他的",
+  "scope": "仅视频目录内前两段旧视频及检查中间文件；第三段上传包、原始输入、音频资产及独立广播过场不在清理范围",
+  "status": "complete",
+  "final_videos": [
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B01_场景文字_v003.mp4",
+      "bytes": 1531265,
+      "sha256": "aa64417e9a1dc97f2698e88eb06bf15c04b1795b88d772961349ad5f6af6a302",
+      "duration_seconds": 15.104,
+      "user_accepted": true,
+      "scenes": "家里"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B02_场景文字_A版_v003.mp4",
+      "bytes": 1633259,
+      "sha256": "ead27d0e71f023d9cfd86c07c44839fecf90d4f7b5462229256753b1fcb51e11",
+      "duration_seconds": 15.104,
+      "user_accepted": true,
+      "scenes": "汽车里 → 到车站了；紫菜A版"
+    }
+  ],
+  "removed_files": [
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B01_即梦原片_v001.mp4",
+      "bytes": 2502045,
+      "sha256": "5df6b615b91d60bc248c351c0794aed2cb138c16b2b2f2d381e571565965f05d",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B01_即梦原片_v002.mp4",
+      "bytes": 2591293,
+      "sha256": "241cc316e8f0d02ba993c0bdf2b215db16b7e8575b87325250fa2c41b8778028",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B01_柔和转场_v002.mp4",
+      "bytes": 1599596,
+      "sha256": "17aa62807908d1820be823f47b788c15cc5de3e5f0034421cfbc4d598994ca76",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B02_紫菜换声试听_v001.mp4",
+      "bytes": 2633447,
+      "sha256": "bc31fa44e49f39c3a15ec3cbf5c4486b4c051250a9af64ada1a68917dd9874d0",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B02_紫菜A版_v002.mp4",
+      "bytes": 2634818,
+      "sha256": "a1056b9af7da38674a36b1fab814998cee8b9981ede3b945a107d48c8aba3dcb",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\标注核对.json",
+      "bytes": 2000,
+      "sha256": "80a0a7acf3bf8d2a4d0db89815298aef4a8c5e1f01e57ab10de654513cd875d5",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\B01_render.log",
+      "bytes": 4991,
+      "sha256": "c65e4a7a6416fddad3d00bf3bd2889e4e668df95c83813b91aa11f6b7b7eeafa",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\B01.ass",
+      "bytes": 641,
+      "sha256": "ded98c6dccc604e3371211c04456a72c2741d4acd384499add37860ffb5bfb05",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\B02_render.log",
+      "bytes": 5067,
+      "sha256": "13427f17be07c6e9954a71ca5e76ccd49aca71e07ed944c5cadb819368220952",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\B02.ass",
+      "bytes": 721,
+      "sha256": "031df48e8cdcd69040ec0abfbd9877ae697061043faec1a5c86664aa2766052e",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\home.png",
+      "bytes": 356065,
+      "sha256": "c2a87b5c63d6286ba3b9ae09b2982144351ff967401bcf7d78d34266cfcc78df",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\station.png",
+      "bytes": 210764,
+      "sha256": "b7f2cb2ee7cc26f04c555636294830a8a87542bb5f978b227cc5b5902ee69dbf",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\场景标注\\taxi.png",
+      "bytes": 308787,
+      "sha256": "ed18da150a53b09c9dac292a2dd76b05f91b02822c776f883fe5219cb6c82d63",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\检查_B01_v001\\本地修正核对.json",
+      "bytes": 467,
+      "sha256": "345bb513e8379a1ffa4a2663c68f783c877d6013e60f32d8d6f18b4ed6ff2583",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\检查_B01_v001\\柔和转场逐帧.png",
+      "bytes": 1127349,
+      "sha256": "51a3e879927b352433fa2f49f7c51e471b9b2fe857ea0b2a8f4158f9aceee02e",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\检查_B01_v001\\asr.json",
+      "bytes": 5415,
+      "sha256": "d1907cdfea01dbbbcacf1c60d2b6fc13e7b99d07d9b2d6a8187a67bed3a88b1b",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\检查_B01_v001\\contact.png",
+      "bytes": 1379181,
+      "sha256": "e74157772c66efed57d68305f4df0d094c0dad5325a31d904b618b5072928753",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\检查_B01_v001\\metadata.json",
+      "bytes": 750,
+      "sha256": "9298033249d5cc445d5a0082171c95762707a942f1b6df1ca657f1b17e18a5a2",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\检查_B01_v001\\transition_exact.png",
+      "bytes": 978958,
+      "sha256": "9d5fabfb93d7d2b53ff9364f58624e2ae2d70d0513a7cd7dd8f0543a436f1459",
+      "status": "recycled"
+    }
+  ],
+  "deletion_method": "Windows Recycle Bin",
+  "new_file_after_cleanup": {
+    "path": "剧集/EP001/制作成果/视频/EP001_B03.mp4",
+    "action": "preserved",
+    "status": "not_inspected",
+    "note": "在清理完成后的文档更新阶段出现，不属于先前清理清单"
+  }
+}

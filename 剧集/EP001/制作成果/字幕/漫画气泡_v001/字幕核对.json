@@ -1,0 +1,354 @@
+{
+  "status": "ready_for_user_review",
+  "batches": [
+    {
+      "batch": "B01",
+      "source": "EP001_B01_场景文字_v003.mp4",
+      "output": "EP001_B01_漫画气泡_v004.mp4",
+      "events": [
+        {
+          "start": 0,
+          "end": 3.3,
+          "speaker": "紫菜",
+          "text": "我们去潮汕吧。\n我记得你外婆家\n在那儿。",
+          "box": [
+            211,
+            245,
+            256,
+            130
+          ],
+          "tip": [
+            369,
+            395
+          ],
+          "size": 24
+        },
+        {
+          "start": 3.58,
+          "end": 5.26,
+          "speaker": "饭团",
+          "text": "嗯，对，行。",
+          "box": [
+            68,
+            304,
+            225,
+            70
+          ],
+          "tip": [
+            190,
+            399
+          ],
+          "size": 24
+        },
+        {
+          "start": 7.4,
+          "end": 8.44,
+          "speaker": "紫菜",
+          "text": "带点玩的。",
+          "box": [
+            227,
+            297,
+            226,
+            72
+          ],
+          "tip": [
+            330,
+            403
+          ],
+          "size": 24
+        },
+        {
+          "start": 9.1,
+          "end": 11.78,
+          "speaker": "饭团",
+          "text": "好了。\n平板带了吗？\n我要看着。",
+          "box": [
+            37,
+            265,
+            251,
+            128
+          ],
+          "tip": [
+            167,
+            417
+          ],
+          "size": 24
+        },
+        {
+          "start": 12.04,
+          "end": 12.75,
+          "speaker": "紫菜",
+          "text": "带了。",
+          "box": [
+            265,
+            305,
+            158,
+            66
+          ],
+          "tip": [
+            330,
+            405
+          ],
+          "size": 24
+        }
+      ],
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 496,
+            "height": 864,
+            "r_frame_rate": "24/1",
+            "nb_frames": "361"
+          },
+          {
+            "codec_type": "audio",
+            "r_frame_rate": "0/0",
+            "nb_frames": "473"
+          }
+        ],
+        "format": {
+          "duration": "15.104000"
+        }
+      },
+      "audio_stream_identical": true,
+      "sha256": "32ffcabdfa44162241e0a9a4cbb7b4bffb44b6fc9ea26debfdfe7b6514ec400f"
+    },
+    {
+      "batch": "B02",
+      "source": "EP001_B02_场景文字_A版_v003.mp4",
+      "output": "EP001_B02_漫画气泡_A版_v004.mp4",
+      "events": [
+        {
+          "start": 0,
+          "end": 2.22,
+          "speaker": "饭团",
+          "text": "不过我有个弟弟，\n很烦。",
+          "box": [
+            25,
+            236,
+            283,
+            88
+          ],
+          "tip": [
+            148,
+            351
+          ],
+          "size": 24
+        },
+        {
+          "start": 3.2,
+          "end": 7.28,
+          "speaker": "紫菜",
+          "text": "没事，我定了酒店，\n住那，\n过几天再去。",
+          "box": [
+            177,
+            213,
+            292,
+            128
+          ],
+          "tip": [
+            346,
+            368
+          ],
+          "size": 24
+        },
+        {
+          "start": 7.48,
+          "end": 8.16,
+          "speaker": "饭团",
+          "text": "行。",
+          "box": [
+            71,
+            258,
+            148,
+            66
+          ],
+          "tip": [
+            146,
+            350
+          ],
+          "size": 24
+        },
+        {
+          "start": 9.7,
+          "end": 12.18,
+          "speaker": "饭团",
+          "text": "要检票了，\n要不去排队？",
+          "box": [
+            64,
+            291,
+            276,
+            100
+          ],
+          "tip": [
+            207,
+            426
+          ],
+          "size": 24
+        },
+        {
+          "start": 12.26,
+          "end": 12.89,
+          "speaker": "紫菜",
+          "text": "行。",
+          "box": [
+            239,
+            324,
+            149,
+            67
+          ],
+          "tip": [
+            317,
+            424
+          ],
+          "size": 24
+        }
+      ],
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 496,
+            "height": 864,
+            "r_frame_rate": "24/1",
+            "nb_frames": "361"
+          },
+          {
+            "codec_type": "audio",
+            "r_frame_rate": "0/0",
+            "nb_frames": "473"
+          }
+        ],
+        "format": {
+          "duration": "15.104000"
+        }
+      },
+      "audio_stream_identical": true,
+      "sha256": "9f9909e8c6bb4a964f4ca94e4f0b4bb7782f920b6cc4bbe19052b35a7ed48d6d"
+    },
+    {
+      "batch": "B03",
+      "source": "EP001_B03_场景文字_含潮汕广播_v001.mp4",
+      "output": "EP001_B03_漫画气泡_含潮汕广播_v002.mp4",
+      "events": [
+        {
+          "start": 0.58,
+          "end": 1.7,
+          "speaker": "饭团",
+          "text": "还好来得早。",
+          "box": [
+            27,
+            386,
+            236,
+            75
+          ],
+          "tip": [
+            122,
+            490
+          ],
+          "size": 24
+        },
+        {
+          "start": 2.46,
+          "end": 3.09,
+          "speaker": "紫菜",
+          "text": "是啊。",
+          "box": [
+            173,
+            347,
+            146,
+            69
+          ],
+          "tip": [
+            235,
+            449
+          ],
+          "size": 24
+        },
+        {
+          "start": 8.52,
+          "end": 9.98,
+          "speaker": "旁白",
+          "text": "吃午饭了！",
+          "box": null,
+          "tip": [
+            248,
+            258
+          ],
+          "size": 29
+        },
+        {
+          "start": 20.51,
+          "end": 21.13,
+          "speaker": "饭团",
+          "text": "到啦！",
+          "box": [
+            65,
+            344,
+            177,
+            72
+          ],
+          "tip": [
+            163,
+            445
+          ],
+          "size": 27
+        }
+      ],
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 496,
+            "height": 864,
+            "r_frame_rate": "24/1",
+            "nb_frames": "533"
+          },
+          {
+            "codec_type": "audio",
+            "r_frame_rate": "0/0",
+            "nb_frames": "1043"
+          }
+        ],
+        "format": {
+          "duration": "22.208333"
+        }
+      },
+      "audio_stream_identical": true,
+      "sha256": "d070542046f7fa857e720a0316b2c05837f7fe6142f8ecf1522bfbaadbbb0799"
+    }
+  ],
+  "annotations": [
+    {
+      "batch": "B01",
+      "start": 0,
+      "end": 6.3,
+      "text": "看番",
+      "position": [
+        66,
+        481
+      ],
+      "arrow": "m 93 509 b 107 532 130 546 157 549 l 151 542 154 540 167 550 151 556 150 553 157 551 b 128 548 105 533 91 511 l 93 509"
+    },
+    {
+      "batch": "B03",
+      "start": 19.76,
+      "end": 22.2,
+      "text": "打车ing",
+      "position": [
+        410,
+        405
+      ],
+      "arrow": "m 435 438 b 445 454 432 470 418 480 l 420 471 417 471 411 486 428 482 428 479 420 481 b 436 469 449 453 437 437 l 435 438"
+    }
+  ],
+  "visual_check": "全部14条发言中点抽帧已检查；尾巴指向对应人物，文本及两处手机旁注可见；短句开合时间按原音ASR辅助定位，文字逐字取剧本，不据误识别改词。",
+  "input_media_preserved": true
+}

@@ -1,0 +1,47 @@
+{
+  "scope": "EP001全剧本及B01上传材料自检",
+  "b01_dialogues": [
+    [
+      "紫菜",
+      "我们去潮汕吧。我记得你外婆家在那儿。"
+    ],
+    [
+      "饭团",
+      "嗯，对，行。"
+    ],
+    [
+      "紫菜",
+      "带点玩的。"
+    ],
+    [
+      "饭团",
+      "好了。平板带了吗？我要看着。"
+    ],
+    [
+      "紫菜",
+      "带了。"
+    ]
+  ],
+  "dialogue_count": 5,
+  "images": {
+    "图片1_商量出发_无字.png": [
+      941,
+      1672
+    ],
+    "图片2_收拾行李_无字.png": [
+      941,
+      1672
+    ]
+  },
+  "audio_copy_exact": true,
+  "soft_transition": true,
+  "video_generated_on_jimeng": false,
+  "local_transition_duration": 7.7,
+  "audio_duration_seconds": {
+    "音频1_饭团_长句参考.wav": 2.72,
+    "音频2_紫菜_已确认.wav": 2.88
+  },
+  "audio_minimum_seconds": 2,
+  "audio_minimum_passed": true,
+  "fantuan_upload_reference": "原声母版派生长句；新句音色待回听；不替换公共母版"
+}

@@ -1,0 +1,42 @@
+{
+  "output": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\成片\\饭团与紫菜_EP001_暑假片1_1080P含原稿_v003.mp4",
+  "source": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\成片\\饭团与紫菜_EP001_暑假片1_1080P高清版_v002.mp4",
+  "original": "D:\\git\\fantuan\\输入\\EP001\\暑假片1_孩子手绘原稿.jpg",
+  "original_sha256": "4acc5c12eeffdee84251e610dbaa6592a7eaacfda4e415a96159405549c6f0d1",
+  "duration": 57.291666666666664,
+  "original_start": 53.291666666666664,
+  "original_segment_seconds": 4,
+  "transition_seconds": 0.25,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "24/1",
+        "nb_frames": "1375"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "nb_frames": "2687"
+      }
+    ],
+    "format": {
+      "duration": "57.291667",
+      "size": "23358382"
+    }
+  },
+  "source_audio_pcm_unchanged_until": 53,
+  "added_music_start": 53,
+  "decode_error": false,
+  "sha256": "f7e7be904e957d9a3079066d684e82f19c003d412a5ee19f719df0d86a5f2cf6",
+  "status": "creator_accepted_final",
+  "visual_check": "片尾原稿和叠化抽帧已查看；原稿八格、标题和笔迹完整，竖屏等比留边。",
+  "accepted_date": "2026-10-11",
+  "acceptance_source": "用户明确：标记为成品",
+  "source_status": "历史中间版本，本次按用户要求清理；来源哈希保留在清理记录",
+  "final_audio": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\成品\\EP001_成品完整混音_v003.wav"
+}

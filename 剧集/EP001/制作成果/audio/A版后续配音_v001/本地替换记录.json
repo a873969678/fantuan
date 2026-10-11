@@ -1,0 +1,52 @@
+{
+  "status": "preview_pending_listening",
+  "outputs": "剧集\\EP001\\制作成果\\视频\\EP001_B02_紫菜A版_v002.mp4",
+  "sample_rate": 32000,
+  "duration": 15.104,
+  "video_stream_identical": true,
+  "pcm_unchanged_outside_replaced_regions": true,
+  "peak": 0.8936507105827332,
+  "edits": [
+    {
+      "file": "D:/git/fantuan/剧集/EP001/制作成果/audio/紫菜声线校准_v003/紫菜_酒店句_校准A.wav",
+      "trim": [
+        0,
+        4.24
+      ],
+      "start": 2.98,
+      "end": 7.220000000000001,
+      "replaced_region": [
+        2.95,
+        7.3
+      ],
+      "gain": 2.757864015765282,
+      "ambient_source": [
+        2.865,
+        3.015
+      ]
+    },
+    {
+      "file": "B02_紫菜_行.wav",
+      "trim": [
+        0.72,
+        1.24
+      ],
+      "start": 12.28,
+      "end": 12.799999999999999,
+      "replaced_region": [
+        12.255,
+        12.95
+      ],
+      "gain": 2.8790595245033277,
+      "ambient_source": [
+        13.2,
+        13.62
+      ]
+    }
+  ],
+  "hotel_voice_A_accepted": true,
+  "derived_reply_accepted": false,
+  "emotion_accepted": false,
+  "asr_note": "酒店句A已被用户选择；新行及混音需回听，不自动接受派生声音",
+  "sha256": "a1056b9af7da38674a36b1fab814998cee8b9981ede3b945a107d48c8aba3dcb"
+}

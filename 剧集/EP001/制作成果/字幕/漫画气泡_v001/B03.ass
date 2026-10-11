@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 496
+PlayResY: 864
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bubble,幼圆,24,&H00151A20,&H00151A20,&H00151A20,&HFF000000,-1,0,0,0,100,100,1,0,1,0.3,0,5,0,0,0,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.58,0:00:01.70,Bubble,,0,0,0,,{\an7\pos(0,0)\p1\bord2.6\shad0\1c&HFFFFFF&\3c&H151A20&\fad(60,100)}m 60.0 388 b 135.56 383 230.0 386 246 401 b 266 418 266 436 246 449 b 232 461 147 461 137 461 l 122 490 b 123 477 118 468 113 461 b 97.8 464 45 461 34 440 b 24 423 24 408 40 398 b 48 392 57 389 60.0 388{\p0}
+Dialogue: 2,0:00:00.58,0:00:01.70,Bubble,,0,0,0,,{\an5\pos(145.0,423.5)\fs24\fad(60,100)}还好来得早。
+Dialogue: 1,0:00:02.46,0:00:03.09,Bubble,,0,0,0,,{\an7\pos(0,0)\p1\bord2.6\shad0\1c&HFFFFFF&\3c&H151A20&\fad(60,100)}m 203.36 349 b 240.16 344 288.64 347 302 362 b 322 379 322 391 302 404 b 288 416 260 416 250 416 l 235 449 b 236 436 231 423 226 416 b 216.8 419 191 416 180 395 b 170 378 170 369 186 359 b 194 353 203 350 203.36 349{\p0}
+Dialogue: 2,0:00:02.46,0:00:03.09,Bubble,,0,0,0,,{\an5\pos(246.0,381.5)\fs24\fad(60,100)}是啊。
+Dialogue: 2,0:00:08.52,0:00:09.98,Bubble,,0,0,0,,{\an5\pos(248,258)\fs29\fad(60,100)}吃午饭了！
+Dialogue: 1,0:00:20.51,0:00:21.13,Bubble,,0,0,0,,{\an7\pos(0,0)\p1\bord2.6\shad0\1c&HFFFFFF&\3c&H151A20&\fad(60,100)}m 96.68 346 b 146.42000000000002 341 210.32 344 225 359 b 245 376 245 391 225 404 b 211 416 188 416 178 416 l 163 445 b 164 432 159 423 154 416 b 118.1 419 83 416 72 395 b 62 378 62 366 78 356 b 86 350 95 347 96.68 346{\p0}
+Dialogue: 2,0:00:20.51,0:00:21.13,Bubble,,0,0,0,,{\an5\pos(153.5,380.0)\fs27\fad(60,100)}到啦！
+Dialogue: 2,0:00:19.76,0:00:22.20,Bubble,,0,0,0,,{\an8\pos(410,405)\fs22\fad(120,150)}打车ing
+Dialogue: 1,0:00:19.76,0:00:22.20,Bubble,,0,0,0,,{\an7\pos(0,0)\p1\bord0\shad0\1c&H151A20&\fad(120,150)}m 435 438 b 445 454 432 470 418 480 l 420 471 417 471 411 486 428 482 428 479 420 481 b 436 469 449 453 437 437 l 435 438{\p0}

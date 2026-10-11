@@ -1,0 +1,40 @@
+{
+  "purpose": "B02第二段上传材料",
+  "files": [
+    {
+      "name": "上传材料核对.json",
+      "bytes": 891,
+      "sha256": "7b43d9352e8a3c5bb2fa21c7f3ca5bb836a0336a8cdf626d9cc37ef7ccac3963"
+    },
+    {
+      "name": "先读我.txt",
+      "bytes": 1814,
+      "sha256": "e982772ea6e2516037c395a838d4b2f74ac23e2bde9fb9e94cd86d6bb3d4ba1c"
+    },
+    {
+      "name": "图片1_出租车_无字.png",
+      "bytes": 1619219,
+      "sha256": "094e8fc1add5f0bdf501dbec45a2cc756a8c3b6c49441cff86d5968a16422e39"
+    },
+    {
+      "name": "图片2_候车区_无字.png",
+      "bytes": 1560603,
+      "sha256": "f4ab80c26fdf630fb758ed076e0cfee69f630b461f71f3957e9edd94d6a93ba4"
+    },
+    {
+      "name": "复制到即梦.txt",
+      "bytes": 3469,
+      "sha256": "5e6936d63066e2a5d0ef754c1ab243deabc0241d1d6934ce43c8f36b26efc326"
+    },
+    {
+      "name": "音频1_饭团_长句参考.wav",
+      "bytes": 130604,
+      "sha256": "06b2b9b01089d0cefceb0eeb92404354e52bb8c36221579703da5a1054471614"
+    },
+    {
+      "name": "音频2_紫菜_已确认.wav",
+      "bytes": 138284,
+      "sha256": "906111c875e6d011804367064a0d7c38fa968d45ba1d4b97126b9aa975c65357"
+    }
+  ]
+}

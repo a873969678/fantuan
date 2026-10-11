@@ -1,0 +1,1402 @@
+{
+  "status": "creator_accepted_final_cleanup_complete",
+  "episode": "EP001",
+  "user_instruction": "标记为成品，删除多余无用文件视频音频等，并把漫画、视频、音频等相关规定写入通用中",
+  "accepted_date": "2026-10-11",
+  "final": {
+    "path": "剧集/EP001/制作成果/成片/饭团与紫菜_EP001_暑假片1_1080P含原稿_v003.mp4",
+    "sha256": "f7e7be904e957d9a3079066d684e82f19c003d412a5ee19f719df0d86a5f2cf6",
+    "size": 23358382,
+    "duration_seconds": 57.291667,
+    "width": 1080,
+    "height": 1920,
+    "fps": 24,
+    "frames": 1375,
+    "status": "creator_accepted_final"
+  },
+  "cleanup_scope": "仅本项目EP001制作成果；逐文件移入回收站，不清空回收站，不处理原始输入、公共定稿、工具、模型或运行环境",
+  "planned_count": 156,
+  "planned_bytes": 150290667,
+  "files": [
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006.zip",
+      "size": 2949529,
+      "sha256": "febff9ba6c312956bd809ac6ee2adaad9cbc5e5864fe249bc8863eb209c84a0b",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007.zip",
+      "size": 2991812,
+      "sha256": "de4e287d3bb3b1d6808dca5d20ff622275bc614f8a66b73ad6206691ea8c718a",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001.zip",
+      "size": 2893589,
+      "sha256": "76ce31ef5f57390b1136dec1985ebc8d48cd6619dab5c5a7f07d59949c43da59",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001.zip",
+      "size": 5740644,
+      "sha256": "77992ce0a2892aac372c00998270a0cf23bbda2833c48cead45ac6152ba4e28c",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002.zip",
+      "size": 5615154,
+      "sha256": "a84ab3989c3bf5d56c8100676774aa70bcf37683b73cd554e13301effcf5f1cf",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\上传材料核对.json",
+      "size": 718,
+      "sha256": "9d26343cf393d597079b8b26ee7cbcbe27f715ac49227872d90966a4141d13c8",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\先读我.txt",
+      "size": 2776,
+      "sha256": "3db3a5fb1a365eeb95cf426622b9c7894afbc5f77ee5305d61bfb2de3fc792db",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\图片1_商量出发_无字.png",
+      "size": 1630488,
+      "sha256": "2a45793436dbe3a80a8008af7f97c48fe38757fd43524add91f58be55c7b3d8d",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\图片2_收拾行李_无字.png",
+      "size": 1624648,
+      "sha256": "59e7de4c29175ed082bed1950bb604e535c58bd7065353160fda4a4bcddc701f",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\复制到即梦.txt",
+      "size": 2830,
+      "sha256": "b6d79fff58d0008c56ade83fa65dd661c78e62f1997d585cd893c8a784fab6aa",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\已被v007替代.txt",
+      "size": 114,
+      "sha256": "93427fd3b7b2dad304c84f4c053a788cd91f8fb5c4f026d829b29fddd6f7f8b9",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\素材清单.json",
+      "size": 1219,
+      "sha256": "dc0da2288a162799530e4a78577a5d30b9b8c9a28c1f4455721cb77121b686b2",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\音频1_饭团_已确认.wav",
+      "size": 73004,
+      "sha256": "07dbf84620ac6dc77d7334d199ee6df6c7a79b0ccb87339f7b4f9173b884c6f1",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v006\\音频2_紫菜_已确认.wav",
+      "size": 138284,
+      "sha256": "906111c875e6d011804367064a0d7c38fa968d45ba1d4b97126b9aa975c65357",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\上传材料核对.json",
+      "size": 1007,
+      "sha256": "585d0de3378084e9af3ab461e99943a01f5d2cf1303716a887b1117040da0d41",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\先读我.txt",
+      "size": 3087,
+      "sha256": "eed3fde1a74ba2e35e505ab86122d992f7e993930d8c7983ed188c699370d51d",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\图片1_商量出发_无字.png",
+      "size": 1630488,
+      "sha256": "2a45793436dbe3a80a8008af7f97c48fe38757fd43524add91f58be55c7b3d8d",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\图片2_收拾行李_无字.png",
+      "size": 1624648,
+      "sha256": "59e7de4c29175ed082bed1950bb604e535c58bd7065353160fda4a4bcddc701f",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\复制到即梦.txt",
+      "size": 2821,
+      "sha256": "f753f2a98a27240c6ec07d07fa0ab248238d25790ff415bac7a5c5d86d9923f3",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\素材清单.json",
+      "size": 1216,
+      "sha256": "fb930e57651cc1d2de926dc9abdc2e418f66f6d63fb044e5c9e2e6b6db77b447",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\音频1_饭团_长句参考.wav",
+      "size": 130604,
+      "sha256": "06b2b9b01089d0cefceb0eeb92404354e52bb8c36221579703da5a1054471614",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B01_15秒_上传包_v007\\音频2_紫菜_已确认.wav",
+      "size": 138284,
+      "sha256": "906111c875e6d011804367064a0d7c38fa968d45ba1d4b97126b9aa975c65357",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\上传材料核对.json",
+      "size": 891,
+      "sha256": "7b43d9352e8a3c5bb2fa21c7f3ca5bb836a0336a8cdf626d9cc37ef7ccac3963",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\先读我.txt",
+      "size": 1814,
+      "sha256": "e982772ea6e2516037c395a838d4b2f74ac23e2bde9fb9e94cd86d6bb3d4ba1c",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\图片1_出租车_无字.png",
+      "size": 1619219,
+      "sha256": "094e8fc1add5f0bdf501dbec45a2cc756a8c3b6c49441cff86d5968a16422e39",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\图片2_候车区_无字.png",
+      "size": 1560603,
+      "sha256": "f4ab80c26fdf630fb758ed076e0cfee69f630b461f71f3957e9edd94d6a93ba4",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\复制到即梦.txt",
+      "size": 3469,
+      "sha256": "5e6936d63066e2a5d0ef754c1ab243deabc0241d1d6934ce43c8f36b26efc326",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\素材清单.json",
+      "size": 1184,
+      "sha256": "069b7008fc3aadc46021f5adca004631c9fca45c8467191085b21c0f83ee9005",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\音频1_饭团_长句参考.wav",
+      "size": 130604,
+      "sha256": "06b2b9b01089d0cefceb0eeb92404354e52bb8c36221579703da5a1054471614",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B02_15秒_上传包_v001\\音频2_紫菜_已确认.wav",
+      "size": 138284,
+      "sha256": "906111c875e6d011804367064a0d7c38fa968d45ba1d4b97126b9aa975c65357",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\上传材料核对.json",
+      "size": 1892,
+      "sha256": "6071d36e019aabf61b5c080acce92914896b52dd8ccbbf9d31c648ec298b9c37",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\先读我.txt",
+      "size": 2057,
+      "sha256": "56df43600fabfdc05b299e571196187edb8486ea812da18b9d76ba8ba015c0d0",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\图片1_检票排队_无字.png",
+      "size": 1635562,
+      "sha256": "e7e9f26692835a2bdba79ee3212b3a65cc55fa1fe36ba2331c06ec399e3492dc",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\图片2_车窗_无字.png",
+      "size": 1617223,
+      "sha256": "4a2a4a74f065019153b71afaa6bca7201541ce5935ac178ba4d84089ccb3d3c8",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\图片3_午饭_无字.png",
+      "size": 1628782,
+      "sha256": "cda597e21c5200cdfcb35769a0b40dba1b7fa34a0f35a1e3720033da05d682c3",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\图片4_到站_无字.png",
+      "size": 1552726,
+      "sha256": "9b3d787eeeaa520b49804d41ce6b01cdd1acda386c666c0cc56976111efbde89",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\复制到即梦.txt",
+      "size": 6765,
+      "sha256": "bf16aea8e5cd589e0d33be9eeb276d43ce7f39c7d100664963663b75d9c76a24",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\已废弃_勿上传.txt",
+      "size": 148,
+      "sha256": "63f5fe3835a266aabacbf4a2ddb2a0d082941bdc6d9e836e334fd752498266d5",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\素材清单.json",
+      "size": 1576,
+      "sha256": "d30527aa8225e36893e2e831ec951eb0e362cd56d7737c7d4adf9664ce1a2633",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\音频1_饭团_B03新台词.wav",
+      "size": 112844,
+      "sha256": "2fa0db1d87a94d00cd320b651ec4cedd4b01dcf465ba6b4377c975f2480f5c84",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v001\\音频2_紫菜_A版新参考.wav",
+      "size": 308686,
+      "sha256": "68e37a1ba4a3fe1f47bf3e9d821ac564ea1187f557c432b34d696c0be5095f88",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\上传材料核对.json",
+      "size": 2052,
+      "sha256": "e7cde1b68493ef358641275fa0c8980913cda4bbad4e69cf1189f1e00645b5e2",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\先读我.txt",
+      "size": 2203,
+      "sha256": "68af1b00e4113bcbcc7dd818a4a110aceb6770e71dd13a0b3f4dc5e2bfa61094",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\图片1_检票排队_无字.png",
+      "size": 1635562,
+      "sha256": "e7e9f26692835a2bdba79ee3212b3a65cc55fa1fe36ba2331c06ec399e3492dc",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\图片2_车窗_无字.png",
+      "size": 1617223,
+      "sha256": "4a2a4a74f065019153b71afaa6bca7201541ce5935ac178ba4d84089ccb3d3c8",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\图片3_午饭_无字.png",
+      "size": 1628782,
+      "sha256": "cda597e21c5200cdfcb35769a0b40dba1b7fa34a0f35a1e3720033da05d682c3",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\图片4_到站_无字.png",
+      "size": 1552726,
+      "sha256": "9b3d787eeeaa520b49804d41ce6b01cdd1acda386c666c0cc56976111efbde89",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\复制到即梦.txt",
+      "size": 6738,
+      "sha256": "63eebc5502f8cba00cfe8862224d9951c556a2ca8961e0223e2b529d04b6b948",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\素材清单.json",
+      "size": 1580,
+      "sha256": "2efc46af97e6266df0d6e812d779159618d692b1a45aba6e4d365efdc701ae7c",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\音频1_饭团_B03新台词.wav",
+      "size": 112844,
+      "sha256": "2fa0db1d87a94d00cd320b651ec4cedd4b01dcf465ba6b4377c975f2480f5c84",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_B03_15秒_上传包_v002\\音频2_紫菜_是啊.wav",
+      "size": 105644,
+      "sha256": "4dd47f87d48a4a6dceebaa1fe129298fbe42087ec30065bf3aca6e05a3cdf6e6",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\B01_出发准备_15秒.txt",
+      "size": 4221,
+      "sha256": "c92e10e5c488b8a0a84d4194e75ebf89c2ad35900eb26a8b8014d64a64562d06",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\B02_去高铁站_15秒.txt",
+      "size": 4259,
+      "sha256": "6959818e3cc78c0911fe863e11d44637cc0e71a3f92b9efa77840b935f748350",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\B03_旅途到达_15秒.txt",
+      "size": 6544,
+      "sha256": "e0bbe25f2b1916fc4bf3c52858a3db0282dd485406c5c81d14aaff2f4a22dc71",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\manifest.json",
+      "size": 2973,
+      "sha256": "59fb0cc538f6961f455e08a9028ea408db276ff939bac249d2c7bd4376e96439",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\先读我.txt",
+      "size": 1143,
+      "sha256": "f256e12ef582d3702daac6939834b81434785e72556f8958157301700dc55254",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\分镜.md",
+      "size": 31300,
+      "sha256": "1c20c179940098ca0f36bd65aa2eb8e81db0e41312de17274235f42117d6a59a",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\已废弃_勿上传.txt",
+      "size": 171,
+      "sha256": "0a65401342f049cb83cebb11e366a873c91219bb42c7e10327766cfd6d124f4e",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\视频提示词.md",
+      "size": 51868,
+      "sha256": "f3ad51ff8323ba66e5751654c894447f043702d114bb83040d0601c0d8976dc3",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图1.png",
+      "size": 1673373,
+      "sha256": "99b6c553b97efc5a449bad51ed95a8a8e8938d12f59f1f684f0f61d9ba03ea50",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图2.png",
+      "size": 1707730,
+      "sha256": "0fb4b1f1a42648ffb7ceb8473f23db9273fa582c980463df6d185a6a033347a3",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图3.png",
+      "size": 1673988,
+      "sha256": "8bdc3fee077fc802adbf13e308e9f35bc23f629c9630cfa2a82c49b7522fcca7",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图4.png",
+      "size": 1618222,
+      "sha256": "5e52da33547c739007fddd4c7512230d6aec0da4bcecc5d4cb634787c85327a0",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图5.png",
+      "size": 1667800,
+      "sha256": "5dadeb0aad2c0c171a84212273fbde83a91d1adb22969802e22d6e1a333ebf97",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图6.png",
+      "size": 1653616,
+      "sha256": "74959cd5c05b7a72de3416949f31ad32558000b9da616508692ce34a2fc6d69e",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图7.png",
+      "size": 1677335,
+      "sha256": "5ef4afef6cc274b2be06b263b9a852cfccd5ca1f6e76a689b0decc58cde4c1ba",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\参考漫画\\漫画成品图8.png",
+      "size": 1608420,
+      "sha256": "e05a98d7c801d4b4ca144810f4d58146c05f145c2b9bac030c054f90021fe9d7",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\即梦提交包\\EP001_每次15秒_三批次工作稿_v005\\发布封面\\漫画封面.png",
+      "size": 2518997,
+      "sha256": "b0df0b0b4d2a18986c128293897271a19d887d1e42e1e8eeeca7f33cdf5caa50",
+      "reason": "生成已结束；已保留最新提示词及规范素材，移除重复快照与压缩包",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-001_候选_v001.png",
+      "size": 1735064,
+      "sha256": "59bb3c2c4476d3c52e7d4b43f3af9bb74c420fc8ef2d11ad3789cb8184641594",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-001_候选_v002.png",
+      "size": 1623102,
+      "sha256": "412ae7a6f053ed0bbf9fe44be7f08befa3d7f7be3ba784410509c7c51c82175c",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-001_候选_v003.png",
+      "size": 1632537,
+      "sha256": "182ee38ce72c6fdafe0e5cb6e79e09faa336efc7996bbefe4773ec837374fa38",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-002_候选_v001.png",
+      "size": 2043099,
+      "sha256": "b899fa7b4c03c31b19fa6b51ba99f6cd25f5d735cb0514ebb1f07c4cc7e633c9",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-003_候选_v001.png",
+      "size": 1823225,
+      "sha256": "cadeeffdeac85cf27016360871ca509449c1cc8a85fe1179258dd2a2a8ace5da",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-004_候选_v001.png",
+      "size": 1654503,
+      "sha256": "490d2e3348c99d9ff77fc0286a394ecbdc79d0a509566a506dbb967a0bf0bc92",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-004_候选_v002.png",
+      "size": 1613530,
+      "sha256": "974da7c3b526ffe3b83fc65c349812a6541283c40d4cb9d640dd6db27abb3ddb",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-005_候选_v001.png",
+      "size": 1679935,
+      "sha256": "71d1ce5cf4ccc53c1ba9819ec5e5cbe09c51cd5eedb0676924df42781eab05c9",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-005_候选_v002.png",
+      "size": 1643691,
+      "sha256": "4816ea357ab78daf077d51c1a945e3dec4f541240168c15dce94ee32882e2876",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-006_候选_v001.png",
+      "size": 2368458,
+      "sha256": "68d2e9a3e0cbae5c6b71edd39e54db2c385fd32f3833e947d7e40d295c2c5fd8",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-007_候选_v001.png",
+      "size": 2260897,
+      "sha256": "b8ba9611568b3e396697b28fe85ca90331a9840236f7db527027b291a80f4604",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\首帧\\SHOT-EP001-008_候选_v001.png",
+      "size": 1539504,
+      "sha256": "ff8882ad9b5ec08ed4b76bdd3f9d800e3a4f8b1d7d7d025cb57229045ab9cb67",
+      "reason": "废弃的旧首帧方案，已由最新漫画和无字参考替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\角色\\紫菜_正背面_候选_v001.png",
+      "size": 1967177,
+      "sha256": "dcbce458a16dea04b6a045581bcd7227cc78558969ac01c898609dfa206d68c2",
+      "reason": "未采用角色候选，公共定稿已独立保存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\角色\\紫菜_正背面_候选_v002.png",
+      "size": 1869275,
+      "sha256": "2d4ccaf8e96d2136187b892380ce99e8d88679aff51412ba6cce1ee108c62b3f",
+      "reason": "未采用角色候选，公共定稿已独立保存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\角色\\紫菜_正背面_候选_v003.png",
+      "size": 1879747,
+      "sha256": "0710d2a95bcb5523b043aaaf2a55512a1f68a1356c95840ec0c6b0f8d5d534c0",
+      "reason": "未采用角色候选，公共定稿已独立保存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\角色\\饭团_正背面_候选_v001.png",
+      "size": 1637925,
+      "sha256": "29b996321617d47ddf6ea954ae69f0866129b239922270b7fe289b647d47a87b",
+      "reason": "未采用角色候选，公共定稿已独立保存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\角色\\饭团_正背面_候选_v002.png",
+      "size": 1609472,
+      "sha256": "35a4be112fdade64e487153d57550027348ba9002c82e80bf9d9bcf4d4e776d1",
+      "reason": "未采用角色候选，公共定稿已独立保存",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\manifest.json",
+      "size": 2122,
+      "sha256": "664ed7d122b0e3ca2cbdd7fb9b1e7d9cdac4cba4714f185b7a32c61c8490f817",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\先读我.txt",
+      "size": 1268,
+      "sha256": "fe52e21cfb6cab4e74815b56e390b41de204383a2ffc9606676a6f6b3452bc32",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\全剧配音表.tsv",
+      "size": 3191,
+      "sha256": "738e25f8f2a21be52fa7947badca6d883912219810730a53dcd5ba39dedfed49",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\制作方法.md",
+      "size": 5801,
+      "sha256": "bb92e40fd1e06915fb01ad033a6c653575fe2a4eb1c00c41f051c5f0b1902a53",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\已废弃_勿上传.txt",
+      "size": 171,
+      "sha256": "0a65401342f049cb83cebb11e366a873c91219bb42c7e10327766cfd6d124f4e",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\首轮试听选句.txt",
+      "size": 1136,
+      "sha256": "9e6177b31a8606848b77c1a9679f09fb5be48949ae24fffb7e67dc289ce2a926",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\参考原声\\饭团_用户指定声音原视频.mp4",
+      "size": 550583,
+      "sha256": "6f868c293ae13b527a8b51c86a89995fb42bc23030d175ae3754d8f42a29f85b",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\按角色台词\\广播员.txt",
+      "size": 285,
+      "sha256": "4072250751a8c1a157904fe81067b87a9b022eb7bb5ae5f3b4a9fc8b2d2e18bb",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\按角色台词\\旁白.txt",
+      "size": 267,
+      "sha256": "42868a7f9006f962f2515d2d1ac30f33ce3f4f53a0b7a719595b9fb6cbdd10b9",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\按角色台词\\紫菜.txt",
+      "size": 1034,
+      "sha256": "2954ab3b0ffa0d50eebeac5dccce6789974336ea0203294234c261845dd7a263",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\音频准备\\EP001_台词与原声参考_v001\\按角色台词\\饭团.txt",
+      "size": 1215,
+      "sha256": "fac2a6f4b1cba510b32062cb360a6756a2cd1130936d16a1c404afe515c37bb2",
+      "reason": "过时台词与原声快照；剧本和输入原件保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\声音对比\\B02_辅助定位.json",
+      "size": 3346,
+      "sha256": "a0819c227bdfb20941b333c1df5cf775b07333ac5ee2ff403d293a959ec0c74a",
+      "reason": "已完成声线选择，删除对比试听",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\声音对比\\README.md",
+      "size": 2390,
+      "sha256": "1c5501904486171d8e4674790a0f3e6c98b4f3c54fc4eab291c39d2b2e6e23f0",
+      "reason": "已完成声线选择，删除对比试听",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\声音对比\\紫菜_B01与B02原声对比_v001.wav",
+      "size": 1068878,
+      "sha256": "cdd32dfe1a6a6c802116f802018677c119dd37e508480549c841ae24eecba207",
+      "reason": "已完成声线选择，删除对比试听",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\01_饭团.wav",
+      "size": 115244,
+      "sha256": "87baa24b6b465d29c80407196236f86be026eed9d1d8869024c58a46ebe3868c",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\02_紫菜.wav",
+      "size": 238124,
+      "sha256": "a49b206ec704a062dfba4368ccdf4279401d6e914525e9d6631a0fff8a3d7a6a",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\03_饭团.wav",
+      "size": 42284,
+      "sha256": "b1e22aea1e5a0c19bcdc9e5d652176fb5eff196ef172f2eb1d3e893838e2f197",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\04_饭团.wav",
+      "size": 107564,
+      "sha256": "f2def55259770e8b854af893d5b24e8fab35006675f68f5efc1ef374a3290410",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\05_紫菜.wav",
+      "size": 46124,
+      "sha256": "057e6264527d13156dd2cf1cdebdec69d024f7ab26994ccc046ce45fb18b41e3",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\B02_紫菜替换混音_v001.wav",
+      "size": 1933356,
+      "sha256": "e7faae3f76d33d884796e05e24f54f43af1dc3b4a076c2c27c16ec2ab893c3a5",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\本地替换记录.json",
+      "size": 1255,
+      "sha256": "69aed00f498a66c3793295335c7d3c2895ff0a3eecf1156ccf3157fd35e9a6e4",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\紫菜_B01截取参考.wav",
+      "size": 160878,
+      "sha256": "89a3abece6f619f2623a9506beb9fcbb594345d5d9b96b0116c5e6f73608ae63",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\紫菜_B02本段台词_上传参考_v002.wav",
+      "size": 301004,
+      "sha256": "8375a1d8a10a54dc66a2f7374511a72a4084a33ba4a24cffe2c8a1db7a73e752",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\紫菜辅助转写.json",
+      "size": 2112,
+      "sha256": "09d206bd26127d402caac1de4cb475a43eff9f27efb131c2305a81061d7af86b",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\运行记录.json",
+      "size": 4211,
+      "sha256": "720fda5452905d12d95b0d605983c2d2b5a8cb96db10990633399265c600dc9f",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\饭团_B01截取参考.wav",
+      "size": 136878,
+      "sha256": "14047314f7782641bca829cc18db01e28cf559f91a740119c0af4136f9fb92e6",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\B02_新上传音频_v002\\饭团_B02本段台词_上传参考_v002.wav",
+      "size": 298604,
+      "sha256": "9759930bab240be8f275727f74664b68ae9dd19af70efe26e82f0f2dfc37e969",
+      "reason": "未采用的成熟声线替换方案及其临时产物",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\成片\\饭团与紫菜_EP001_暑假片1_1080P高清版_v002.mp4",
+      "size": 20857723,
+      "sha256": "90a23926223c3fcd4972347f82354e438b9b81edc7486ed3c64a31224b403ad2",
+      "reason": "被含原稿的1080P成品替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\成片\\饭团与紫菜_EP001_暑假片1_封面配乐完整版_v001.mp4",
+      "size": 5822019,
+      "sha256": "c46efe93c8656dee55523490befd88823b6429d0e555a667488cfd14b08cc147",
+      "reason": "被含原稿的1080P成品替代",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B01_漫画气泡_v004.mp4",
+      "size": 1516383,
+      "sha256": "32ffcabdfa44162241e0a9a4cbb7b4bffb44b6fc9ea26debfdfe7b6514ec400f",
+      "reason": "已合入成品；底片与可编辑ASS保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B02_漫画气泡_A版_v004.mp4",
+      "size": 1617374,
+      "sha256": "9f9909e8c6bb4a964f4ca94e4f0b4bb7782f920b6cc4bbe19052b35a7ed48d6d",
+      "reason": "已合入成品；底片与可编辑ASS保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\视频\\EP001_B03_漫画气泡_含潮汕广播_v002.mp4",
+      "size": 2395743,
+      "sha256": "d070542046f7fa857e720a0316b2c05837f7fe6142f8ecf1522bfbaadbbb0799",
+      "reason": "已合入成品；底片与可编辑ASS保留",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B01_1.png",
+      "size": 361619,
+      "sha256": "8a750c37880fc9f279968178b304e47e250602fc811491504dc9abdd0c4b57a0",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B01_2.png",
+      "size": 376730,
+      "sha256": "5ca93be110cfeff041ef7f4f6dbc408c4f9bc406cf06174690f887fcadf340f2",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B01_3.png",
+      "size": 330087,
+      "sha256": "31e421c225a0a69dabf598050b62b3c520a9afe29d3ae0ef59b9801207b0ea0c",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B01_4.png",
+      "size": 369003,
+      "sha256": "34e6139a800c4fc5f859688d4b7b457340017602b494207b4c9647c63ec5b32f",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B01_5.png",
+      "size": 377299,
+      "sha256": "ebb5bbfcd570cfb083b0ba223584bd836c5522e42140fbd4cc91d53399fe94ad",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B01_render.log",
+      "size": 4990,
+      "sha256": "e75d746b1f23a3e3897a921fb97b609be9c6bbfb0e30b7bb5218118cb4e38873",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B02_1.png",
+      "size": 279872,
+      "sha256": "de3d5566d39391c289804e02b61384f39001862b4b15d79433b30281ebf0a318",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B02_2.png",
+      "size": 336252,
+      "sha256": "693add57a907043f66d1e89e273de4c8429b36c0ef5d77db0cc38c3bf910a2ba",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B02_3.png",
+      "size": 331901,
+      "sha256": "a8dd9339e3a73a13b2bdd072e7394571aa567aeec717e5484ff3cfb73b3abcaa",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B02_4.png",
+      "size": 229355,
+      "sha256": "ade5c2771cdf1dfc031a8e41003dc8fdd170dd3400dc86f41374df783faed19b",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B02_5.png",
+      "size": 226425,
+      "sha256": "e1407781f103530b53db3cf51bd2423d668b4783170b87aee562a90d6f0bb659",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B02_render.log",
+      "size": 5001,
+      "sha256": "d6d92983f5cd5d1fb199b4b0d99c0aaa59cb1a2f8b64942cff57584468a34eb5",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B03_1.png",
+      "size": 275074,
+      "sha256": "828c603e73b7044f6a85de70d6efd104d3377a79649315f83e955d3aa6b7ed78",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B03_2.png",
+      "size": 291304,
+      "sha256": "011f83b272625489f26e4c5cd2be3145e711a36a988200f7d96e62106147eb31",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B03_3.png",
+      "size": 265508,
+      "sha256": "1cd3c62babc706d8dbbab6c740311f08e4d9f2866110b391c17ae6b9e1d84d04",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B03_4.png",
+      "size": 223514,
+      "sha256": "1233f2e9be161ef59f7984e1c490050171151b18ff31eb7dd0baf8b89a257cb6",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\字幕\\漫画气泡_v001\\B03_render.log",
+      "size": 5142,
+      "sha256": "f29c22899ee42a1555a61c49aea355d19ea450b7a05511fcad211e2fb609c492",
+      "reason": "已完成核对的临时截图或渲染日志",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\广播_SC008_原声去配乐_v001_处理记录.json",
+      "size": 1573,
+      "sha256": "404cd0ff8e3d5c851b3677d74bebbd30242141db4370150733adaf61768fb8dd",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\广播_SC008_原声截取_v001_提取记录.json",
+      "size": 1126,
+      "sha256": "501d4ffdba1c92c4a31519d103a6139b951fcf14203dedf7b4ecf0a5e5b109d6",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\广播_SC008_干声_v001_运行记录.json",
+      "size": 2498,
+      "sha256": "387de218fc0e61752f06657bbc4f7182d01cdaaeafa6e80146d051ea9cfa3b4e",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\广播_去配乐辅助核对_v001.json",
+      "size": 396,
+      "sha256": "ddcff5e057a5fa66725e18b2273151475ccae59574021b883a3ec442698c252a",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\广播_辅助转写_v001.json",
+      "size": 143,
+      "sha256": "4da7226ae9ee07feafd4203d08f82baf4cb31a53eb17eee65de1ce643490f1a7",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\紫菜_SC001_试听_v001_中断记录_首次运行.json",
+      "size": 1866,
+      "sha256": "c23835d2eeea84cac90d371e57efbe2d23211cc4e74c1fc3eae2e49804dbf878",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\紫菜_SC001_试听_v001_运行记录.json",
+      "size": 2434,
+      "sha256": "fa8ef7810b2f60a85e88ec9040b3562201a5ef3cb6cc5411f7172b4c10b19091",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\紫菜_SC001_试听_v002_运行记录.json",
+      "size": 2263,
+      "sha256": "8148166e3b098ac997107a01d2480807633cfdcbb92dcc4c1db201cc775e2093",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\紫菜_辅助转写_v002.json",
+      "size": 149,
+      "sha256": "9f2ce83531d5b909f6cd8d0a8532c62fa1252e5167d49d0e84878e19c1e87fb5",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\紫菜_辅助转写_v003.json",
+      "size": 146,
+      "sha256": "857800e574c33642d9497ddc7963442da931dd4cb1743c5aa442f7927b6b3c9c",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\辅助转写_v001.json",
+      "size": 241,
+      "sha256": "08858b7dd7f014ab8269815a5120a4c934abfbbb7ff7023343229c4eaf9c84b1",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\饭团_SC001_试听_v001_运行记录.json",
+      "size": 1845,
+      "sha256": "b55a7ddf047bcfa05072abc00f6dec8df1455c9bc7098786b9bf3e296b9d071b",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\试听\\饭团_辅助转写_v002.json",
+      "size": 108,
+      "sha256": "4b3675c52bf7c22ae1b1e18354692b860a58d8e5abb454b7f7f0ab03e91f7899",
+      "reason": "废弃试听的中断记录或辅助核对",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\全片混音_v001\\完整混音_v001.wav",
+      "size": 15420044,
+      "sha256": "6de562416b92f6c4523227127ba7773c317f5671f7c7235650f1fd1aeae269f9",
+      "reason": "已保留含片尾的最终混音及三个编辑分轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\全片混音_v001\\全片辅助转写.json",
+      "size": 2282,
+      "sha256": "15fd617b143a2fc1566eb07dfa61938e74e7af1d154afcf9b8c02a1f90bdb63e",
+      "reason": "已保留含片尾的最终混音及三个编辑分轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\全片混音_v001\\输出响度测量.log",
+      "size": 2325,
+      "sha256": "c7a0f56b2d599725ab58ca881d54afda5d502ec58c48a076821cbdf9c868fe2b",
+      "reason": "已保留含片尾的最终混音及三个编辑分轨",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\紫菜声线校准_v003\\紫菜_酒店句_校准B.wav",
+      "size": 203564,
+      "sha256": "8be65b98e42fca0ff3b31b6aeab59f5714849fc082b80d94e97945c61aaa2855",
+      "reason": "未采用的B版或过时试听说明",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\紫菜声线校准_v003\\README.md",
+      "size": 1327,
+      "sha256": "24020e5d6129985a6b95aa855930371b3b5cafa5e472aa7a60d2de843cb55938",
+      "reason": "未采用的B版或过时试听说明",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\A版后续配音_v001\\B02_紫菜替换混音_v001.wav",
+      "size": 1933356,
+      "sha256": "0168a2f9ce40447f7ced6f0f06942bbbbb99be7b42dc731ae814b13fdb961041",
+      "reason": "重复的已合入视频混音，或含其他段对白的废弃上传音频",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\A版后续配音_v001\\紫菜_B03上传音频_v001.wav",
+      "size": 308686,
+      "sha256": "68e37a1ba4a3fe1f47bf3e9d821ac564ea1187f557c432b34d696c0be5095f88",
+      "reason": "重复的已合入视频混音，或含其他段对白的废弃上传音频",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\A版后续配音_v001\\B03辅助转写.json",
+      "size": 3340,
+      "sha256": "ae7c4e1f5e0ba2c132f6e7c163afb157f478d1b5af706339c561e4238e986628",
+      "reason": "重复的已合入视频混音，或含其他段对白的废弃上传音频",
+      "status": "recycled"
+    },
+    {
+      "path": "D:\\git\\fantuan\\剧集\\EP001\\制作成果\\audio\\紫菜声线校准_v003\\紫菜_酒店句_校准A.wav",
+      "size": 203564,
+      "sha256": "2a2134dfba1fd2bdfc88dce97468735c244fe0ba228eecc1fc1707008d269203",
+      "reason": "已原字节收录公共声音，删除单集重复副本",
+      "status": "recycled"
+    }
+  ],
+  "retained_media": [
+    {
+      "path": "输入/EP001/暑假片1_孩子手绘原稿.jpg",
+      "size": 2407110,
+      "sha256": "4acc5c12eeffdee84251e610dbaa6592a7eaacfda4e415a96159405549c6f0d1"
+    },
+    {
+      "path": "输入/EP001/潮汕站_用户过场照片.png",
+      "size": 2326494,
+      "sha256": "e43edb55da21e9bbf45a54fe68dbd316cc62f1dcffd44fe46b3e3fae7f23b0c8"
+    },
+    {
+      "path": "输入/参考图/主要人物_孩子原画.jpg",
+      "size": 6092398,
+      "sha256": "d7c6ee0dd894265d6ed74dadc2c1465359d7354a5d05314512a4ceeb1cd72a25"
+    },
+    {
+      "path": "输入/声音参考/饭团_用户指定声音原视频.mp4",
+      "size": 550583,
+      "sha256": "6f868c293ae13b527a8b51c86a89995fb42bc23030d175ae3754d8f42a29f85b"
+    },
+    {
+      "path": "输入/声音参考/饭团_用户视频原声.wav",
+      "size": 223182,
+      "sha256": "21e1fd56fa2a1b5472e0ffb1d793e55144041655c6895d7e910146007c50a6a9"
+    },
+    {
+      "path": "输入/声音参考/潮汕站广播/潮汕站广播_完整解码.wav",
+      "size": 2281084,
+      "sha256": "ccdd6735fa9ddff13b93dc3b1ef56d0466a1a6ddcdf91ee7426082bfc4b484b9"
+    },
+    {
+      "path": "输入/声音参考/潮汕站广播/潮汕站广播_抖音参考原声.mp3",
+      "size": 207093,
+      "sha256": "d7191be59ae1353e9fae0923747bd9cc493f2167bdbc551041352f491f91eac2"
+    },
+    {
+      "path": "输入/声音参考/潮汕站广播_新参考/潮汕站广播_新参考原视频.mp4",
+      "size": 2273518,
+      "sha256": "c480df7cd9ab99a9df0df877d057d65aec5f768c3df3d1bcee1b254b5ca7e4db"
+    },
+    {
+      "path": "输入/声音参考/潮汕站广播_新参考/潮汕站广播_新参考完整解码.wav",
+      "size": 7110780,
+      "sha256": "4ab08b71d5321e3834d1d3e94577fe32d1864035f9c3d9eaf1d5eba89efc03bc"
+    },
+    {
+      "path": "公共素材/声音/紫菜_小女孩_A版延续参考_已确认.wav",
+      "size": 203564,
+      "sha256": "2a2134dfba1fd2bdfc88dce97468735c244fe0ba228eecc1fc1707008d269203"
+    },
+    {
+      "path": "公共素材/声音/紫菜_小女孩_已确认_v001.wav",
+      "size": 138284,
+      "sha256": "906111c875e6d011804367064a0d7c38fa968d45ba1d4b97126b9aa975c65357"
+    },
+    {
+      "path": "公共素材/声音/饭团_小女孩_已确认_v001.wav",
+      "size": 73004,
+      "sha256": "07dbf84620ac6dc77d7334d199ee6df6c7a79b0ccb87339f7b4f9173b884c6f1"
+    },
+    {
+      "path": "公共素材/视觉参考/主要人物_用户指定定稿.png",
+      "size": 1615083,
+      "sha256": "62da170f5eca4dc0930906849654e86aececf4b928fb7c156e38f7fd084db285"
+    },
+    {
+      "path": "公共素材/角色/饭团与紫菜_已确认身形与手臂参考.png",
+      "size": 1677335,
+      "sha256": "5ef4afef6cc274b2be06b263b9a852cfccd5ca1f6e76a689b0decc58cde4c1ba"
+    },
+    {
+      "path": "公共素材/角色/饭团与紫菜_已确认配色参考.png",
+      "size": 1618222,
+      "sha256": "5e52da33547c739007fddd4c7512230d6aec0da4bcecc5d4cb634787c85327a0"
+    },
+    {
+      "path": "公共素材/角色/饭团与紫菜_画风与原始配色参考.png",
+      "size": 1673373,
+      "sha256": "99b6c553b97efc5a449bad51ed95a8a8e8938d12f59f1f684f0f61d9ba03ea50"
+    },
+    {
+      "path": "剧集/EP001/制作成果/成片/饭团与紫菜_EP001_暑假片1_1080P含原稿_v003.mp4",
+      "size": 23358382,
+      "sha256": "f7e7be904e957d9a3079066d684e82f19c003d412a5ee19f719df0d86a5f2cf6"
+    },
+    {
+      "path": "剧集/EP001/制作成果/本地过场/EP001_潮汕站广播过场_v001.mp4",
+      "size": 637387,
+      "sha256": "578674dffef0ddf612cee19d88311c7e36f21ed2683ca7eca56dc58bfea3093b"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画封面.png",
+      "size": 2518997,
+      "sha256": "b0df0b0b4d2a18986c128293897271a19d887d1e42e1e8eeeca7f33cdf5caa50"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图1.png",
+      "size": 1673373,
+      "sha256": "99b6c553b97efc5a449bad51ed95a8a8e8938d12f59f1f684f0f61d9ba03ea50"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图2.png",
+      "size": 1707730,
+      "sha256": "0fb4b1f1a42648ffb7ceb8473f23db9273fa582c980463df6d185a6a033347a3"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图3.png",
+      "size": 1673988,
+      "sha256": "8bdc3fee077fc802adbf13e308e9f35bc23f629c9630cfa2a82c49b7522fcca7"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图4.png",
+      "size": 1618222,
+      "sha256": "5e52da33547c739007fddd4c7512230d6aec0da4bcecc5d4cb634787c85327a0"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图5.png",
+      "size": 1667800,
+      "sha256": "5dadeb0aad2c0c171a84212273fbde83a91d1adb22969802e22d6e1a333ebf97"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图6.png",
+      "size": 1653616,
+      "sha256": "74959cd5c05b7a72de3416949f31ad32558000b9da616508692ce34a2fc6d69e"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图7.png",
+      "size": 1677335,
+      "sha256": "5ef4afef6cc274b2be06b263b9a852cfccd5ca1f6e76a689b0decc58cde4c1ba"
+    },
+    {
+      "path": "剧集/EP001/制作成果/漫画/漫画成品图8.png",
+      "size": 1608420,
+      "sha256": "e05a98d7c801d4b4ca144810f4d58146c05f145c2b9bac030c054f90021fe9d7"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频/EP001_B01_场景文字_v003.mp4",
+      "size": 1531265,
+      "sha256": "aa64417e9a1dc97f2698e88eb06bf15c04b1795b88d772961349ad5f6af6a302"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频/EP001_B02_场景文字_A版_v003.mp4",
+      "size": 1633259,
+      "sha256": "ead27d0e71f023d9cfd86c07c44839fecf90d4f7b5462229256753b1fcb51e11"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频/EP001_B03.mp4",
+      "size": 3134040,
+      "sha256": "e73c181650fd3e8f1c6afaf0d4f88d9745a385bf16a2dabd4f560e5e70e66336"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频/EP001_B03_场景文字_含潮汕广播_v001.mp4",
+      "size": 2497384,
+      "sha256": "9617083139311edbbf664a11658d263043ff18dfa41b3ecffa44263769b225e1"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图1_无字_v001.png",
+      "size": 1630488,
+      "sha256": "2a45793436dbe3a80a8008af7f97c48fe38757fd43524add91f58be55c7b3d8d"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图2_无字_v001.png",
+      "size": 1624648,
+      "sha256": "59e7de4c29175ed082bed1950bb604e535c58bd7065353160fda4a4bcddc701f"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图3_无字_v001.png",
+      "size": 1619219,
+      "sha256": "094e8fc1add5f0bdf501dbec45a2cc756a8c3b6c49441cff86d5968a16422e39"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图4_无字_v001.png",
+      "size": 1560603,
+      "sha256": "f4ab80c26fdf630fb758ed076e0cfee69f630b461f71f3957e9edd94d6a93ba4"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图5_无字_v001.png",
+      "size": 1635562,
+      "sha256": "e7e9f26692835a2bdba79ee3212b3a65cc55fa1fe36ba2331c06ec399e3492dc"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图6_无字_v001.png",
+      "size": 1617223,
+      "sha256": "4a2a4a74f065019153b71afaa6bca7201541ce5935ac178ba4d84089ccb3d3c8"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图7_无字_v001.png",
+      "size": 1628782,
+      "sha256": "cda597e21c5200cdfcb35769a0b40dba1b7fa34a0f35a1e3720033da05d682c3"
+    },
+    {
+      "path": "剧集/EP001/制作成果/视频参考/EP001_图8_无字_v001.png",
+      "size": 1552726,
+      "sha256": "9b3d787eeeaa520b49804d41ce6b01cdd1acda386c666c0cc56976111efbde89"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/A版后续配音_v001/B02_紫菜_行.wav",
+      "size": 65324,
+      "sha256": "8505a5aa8b434fada3b05ad8fbf3bf8a5c9d097ed63916649817d481e062843e"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/A版后续配音_v001/B03_紫菜_是啊.wav",
+      "size": 88366,
+      "sha256": "ad234e85ae8aaeeb5100a86910669068c48759a0c45a565c98ad2dd0a5417da4"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/A版后续配音_v001/B03_饭团_到啦.wav",
+      "size": 34604,
+      "sha256": "bd7c3cf9c616dd7b1823af254eb840e3568c38fea6c415a94caa4b19ac8ab1ee"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/A版后续配音_v001/B03_饭团_还好.wav",
+      "size": 61484,
+      "sha256": "9d4f712d06f7e47be25032434a274a8a1d1048280064c6cc12e2b147c1e6b8b7"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/A版后续配音_v001/紫菜_B03仅本段台词_上传_v002.wav",
+      "size": 105644,
+      "sha256": "4dd47f87d48a4a6dceebaa1fe129298fbe42087ec30065bf3aca6e05a3cdf6e6"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/A版后续配音_v001/饭团_B03上传音频_v001.wav",
+      "size": 112844,
+      "sha256": "2fa0db1d87a94d00cd320b651ec4cedd4b01dcf465ba6b4377c975f2480f5c84"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/全片混音_v001/原声时间线_v001.wav",
+      "size": 15420044,
+      "sha256": "25912328b28b1f20a938809cc875298a4b66b53682f703da6a43e37166f36737"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/全片混音_v001/环境拟音层_v001.wav",
+      "size": 15420044,
+      "sha256": "633cb50822844706fd22921bbf8f782c4021c124e0545545a6af3ff0f39cc0c8"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/全片混音_v001/轻音乐时间线_v001.wav",
+      "size": 15420044,
+      "sha256": "eb4db54f568a8c09e63de919f6d090962f17493468f57c792b3a2435ff6ada1c"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/广播/潮汕站_已确认原声_v001.wav",
+      "size": 1358324,
+      "sha256": "adf30bb78aec377ff651a121c1af20160a99e5fde28087970b844e266ed7ec2e"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/成品/EP001_成品完整混音_v003.wav",
+      "size": 16500044,
+      "sha256": "4d7711e821f5a8b5c7515c53d95ee9471b63f5eb24a45b6331801019340bd19c"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/紫菜声线校准_v003/紫菜_B01三句原声参考.wav",
+      "size": 278444,
+      "sha256": "4c6a4c6b947b96d664bd6991e9e83c68a7bc91552b995a8f575f389f2c8af433"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/配乐/EP001_暑假出发_轻音乐_v001.wav",
+      "size": 10752044,
+      "sha256": "d41fdb36a19a5366bc3295c7a613b902ab6b1e2d7d37f6e123f05a0cb6fa31b5"
+    },
+    {
+      "path": "剧集/EP001/制作成果/audio/音色参考/饭团_即梦长句参考_v001.wav",
+      "size": 130604,
+      "sha256": "06b2b9b01089d0cefceb0eeb92404354e52bb8c36221579703da5a1054471614"
+    },
+    {
+      "path": "剧集/EP001/制作成果/字幕/漫画气泡_v001/B01.ass",
+      "size": 3505,
+      "sha256": "440d29e7b8b7e2280726f663871f653c70efc475ceb3bfec930fc6eb019e532c"
+    },
+    {
+      "path": "剧集/EP001/制作成果/字幕/漫画气泡_v001/B02.ass",
+      "size": 3214,
+      "sha256": "bb52126abbd0d1c3f7030349fa3d13fcef53a7d3d2353652f1eaaa0c4f7d49a4"
+    },
+    {
+      "path": "剧集/EP001/制作成果/字幕/漫画气泡_v001/B03.ass",
+      "size": 2306,
+      "sha256": "2407411ba42de9e45a2e9bbe20dff6d3dc7c26f99d882aaa570666286a0ee6f4"
+    }
+  ],
+  "cleanup_result": {
+    "recycled_count": 156,
+    "recycled_bytes": 150290667.0,
+    "retained_hashes_verified": true,
+    "completed_at": "2026-10-11T15:18:36.3718478+08:00"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "scope": "B02素材与台词自检",
+  "dialogues": [
+    [
+      "饭团",
+      "不过我有个弟弟，很烦。"
+    ],
+    [
+      "紫菜",
+      "没事，我定了酒店，住那，过几天再去。"
+    ],
+    [
+      "饭团",
+      "行。"
+    ],
+    [
+      "饭团",
+      "要检票了，要不去排队？"
+    ],
+    [
+      "紫菜",
+      "行。"
+    ]
+  ],
+  "duration_seconds": 15,
+  "audio_seconds": {
+    "音频1_饭团_长句参考.wav": 2.72,
+    "音频2_紫菜_已确认.wav": 2.88
+  },
+  "audio_identical_to_B01_v007": true,
+  "images": {
+    "图片1_出租车_无字.png": [
+      941,
+      1672
+    ],
+    "图片2_候车区_无字.png": [
+      941,
+      1672
+    ]
+  },
+  "images_visually_checked": true,
+  "transition": "对白动作结束后短暂柔和叠化，车内路噪淡出、车站底声淡入",
+  "no_jimeng_generation_performed": true
+}

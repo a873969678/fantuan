@@ -48,7 +48,7 @@
       "spoken_characters_per_second": null
     },
     "prompt_language": "zh-CN",
-    "target_seconds_per_episode": 60
+    "target_seconds_per_episode": null
   },
   "language": "zh-CN",
   "project_id": "SD-842693F21A2C",

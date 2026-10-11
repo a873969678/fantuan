@@ -1,0 +1,12 @@
+{
+  "user_reference_url": "https://v.douyin.com/G_peduQgbo8",
+  "resolved_page": "https://www.douyin.com/note/7378517005365677352",
+  "page_title": "当广铁U彩提醒您前方到站潮汕站就意味着到家了",
+  "media_url_observed_in_playing_element": "https://sf11-cdn-tos.douyinstatic.com/obj/ies-music/7313160510891445030.mp3?is_ssr=1",
+  "browser_duration_seconds": 12.930563,
+  "source_file": "D:\\git\\fantuan\\输入\\声音参考\\潮汕站广播\\潮汕站广播_抖音参考原声.mp3",
+  "size_bytes": 207093,
+  "sha256": "d7191be59ae1353e9fae0923747bd9cc493f2167bdbc551041352f491f91eac2",
+  "method": "download exact currentSrc observed on user referenced page; no synthesis",
+  "content_type": "audio/mpeg"
+}
